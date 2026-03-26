@@ -1,5 +1,4 @@
 # 🛡️ Blocklist podvodných e-shopů (ČOI)
-![Status](https://img.shields.io/badge/STATUS-AKTIVN%C3%8D-brightgreen?style=flat-square)
 
 > **Chraňte své blízké před podvodnými e-shopy.** Tento projekt denně mapuje "černou listinu" České obchodní inspekce a mění ji v digitální štít pro váš prohlížeč i celou síť.
 
