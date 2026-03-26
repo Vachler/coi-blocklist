@@ -1,9 +1,10 @@
 # 🛡️ Blocklist podvodných e-shopů (ČOI)
+![Status](https://img.shields.io/badge/STATUS-AKTIVN%C3%8D-brightgreen?style=flat-square)
 
 > **Chraňte své blízké před podvodnými e-shopy.** Tento projekt denně mapuje "černou listinu" České obchodní inspekce a mění ji v digitální štít pro váš prohlížeč i celou síť.
 
-![Poslední aktualizace](https://img.shields.io/github/last-commit/Vachler/coi-blocklist?label=Posledn%C3%AD%20aktualizace&style=flat-square)
-![Velikost seznamu](https://img.shields.io/github/repo-size/Vachler/coi-blocklist?label=Velikost%20seznamu&style=flat-square)
+![Poslední aktualizace](https://img.shields.io/github/last-commit/Vachler/coi-blocklist?label=AKTUALIZOV%C3%81NO&style=for-the-badge&color=blue)
+![Velikost seznamu](https://img.shields.io/github/repo-size/Vachler/coi-blocklist?label=VELIKOST&style=for-the-badge&color=orange)
 
 ---
 
