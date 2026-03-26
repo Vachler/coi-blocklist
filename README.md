@@ -17,7 +17,3 @@ https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/b
 * **Počet domén:** Aktuálně cca 950+
 * **Aktualizace:** Automaticky každou půlnoc (přes GitHub Actions)
 * **Formát:** AdGuard/uBlock kompatibilní (`||domena.cz^`)
-
-### 🚀 Jak přidat do AdGuardu / uBlocku
-Zkopírujte tento odkaz a vložte jej do nastavení filtrů ve vaší aplikaci:
-
