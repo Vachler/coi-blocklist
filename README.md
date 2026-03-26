@@ -1,18 +1,17 @@
-# 🛡️ Blocklist podvodných e-shopů (ČOI)
+# 🛡️ Czech Scam Stop: Automatický Blocklist (ČOI)
 
-Tento projekt automaticky generuje seznam rizikových e-shopů pro blokátory typu **AdGuard**, **uBlock Origin** nebo **Pi-hole**. Data jsou čerpána přímo z oficiálního webu **České obchodní inspekce**.
+> **Chraňte své blízké před podvodnými e-shopy.** Tento projekt denně mapuje "černou listinu" České obchodní inspekce a mění ji v digitální štít pro váš prohlížeč i celou síť.
 
----
-
-### 🚀 Odkaz pro odběr (Import link)
-Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
-
-👉 **[https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt](https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt)**
+![GitHub last commit](https://img.shields.io/github/last-commit/Vachler/Blocklist-podvodnych-obchodu-CR?label=Posledn%C3%AD%20aktualizace&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Vachler/Blocklist-podvodnych-obchodu-CR?label=Velikost%20seznamu&style=flat-square)
 
 ---
 
-### ℹ️ Informace o seznamu
-* **Zdroj:** [ČOI - Rizikové e-shopy](https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/)
-* **Počet domén:** Aktuálně cca 980+
-* **Aktualizace:** Automaticky každou půlnoc (přes GitHub Actions)
-* **Formát:** AdGuard/uBlock kompatibilní (`||domena.cz^`)
+### 🎯 Jak se bránit? (Import link)
+
+Neopisujte domény ručně. Stačí zkopírovat tento odkaz do vašeho blokátoru a o zbytek se postará automatika.
+
+**Klikněte na ikonu kopírování v pravém horním rohu:**
+
+```text
+[https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt](https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt)
