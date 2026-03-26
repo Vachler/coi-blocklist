@@ -67,5 +67,5 @@ Tyto nástroje filtrují provoz na úrovni DNS (domén). Pokud seznam obsahuje k
 
 ### 💡 Proč to používat?
 
-* **Podvodné weby vznikají a zanikají během hodin. Díky tomuto skriptu nemusíte sledovat zprávy ani web ČOI – váš blokátor se každou noc "naučí" rozpoznat nové hrozby, které inspekce odhalila.
+* Podvodné weby vznikají a zanikají během hodin. Díky tomuto skriptu nemusíte sledovat zprávy ani web ČOI – váš blokátor se každou noc "naučí" rozpoznat nové hrozby, které inspekce odhalila.
 
