@@ -2,8 +2,8 @@
 
 > **Chraňte své blízké před podvodnými e-shopy.** Tento projekt denně mapuje "černou listinu" České obchodní inspekce a mění ji v digitální štít pro váš prohlížeč i celou síť.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Vachler/Blocklist-podvodnych-obchodu-CR?label=Posledn%C3%AD%20aktualizace&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/Vachler/Blocklist-podvodnych-obchodu-CR?label=Velikost%20seznamu&style=flat-square)
+![Poslední aktualizace](https://img.shields.io/github/last-commit/Vachler/coi-blocklist?label=Posledn%C3%AD%20aktualizace&style=flat-square)
+![Velikost seznamu](https://img.shields.io/github/repo-size/Vachler/coi-blocklist?label=Velikost%20seznamu&style=flat-square)
 
 ---
 
@@ -31,7 +31,7 @@ Pokud používáte **uBlock Origin** nebo **AdGuard** v prohlížeči, stačí k
 
 <div align="center">
 
-[![Odebírat seznam](https://img.shields.io/badge/PŘIDAT_DO_PROHLÍŽEČE-DO_JEDNÉ_VTEŘINY-orange?style=for-the-badge&logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt&title=Czech%20Scam%20Stop%20(COI))
+[![Odebírat seznam](https://img.shields.io/badge/PŘIDAT_DO_PROHLÍŽEČE-DO_JEDNÉ_VTEŘINY-orange?style=for-the-badge&logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FVachler%2Fcoi-blocklist%2Fmain%2Fblocklist.txt&title=Czech%20Scam%20Stop%20(COI))
 
 *Kliknutím se automaticky otevře nastavení vašeho adblocku.*
 
