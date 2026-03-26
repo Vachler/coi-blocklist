@@ -25,6 +25,20 @@ Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 
 ---
 
+## ⚡ Rychlá aktivace (One-Click)
+
+Pokud používáte **uBlock Origin** nebo **AdGuard** v prohlížeči, stačí kliknout na tlačítko níže a potvrdit odběr:
+
+<div align="center">
+
+[![Odebírat seznam](https://img.shields.io/badge/PŘIDAT_DO_PROHLÍŽEČE-DO_JEDNÉ_VTEŘINY-orange?style=for-the-badge&logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt&title=Czech%20Scam%20Stop%20(COI))
+
+*Kliknutím se automaticky otevře nastavení vašeho adblocku.*
+
+</div>
+
+---
+
 ### ℹ️ Informace o seznamu
 * **Zdroj:** [ČOI - Rizikové e-shopy](https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/)
 * **Počet domén:** Aktuálně cca 1000+
@@ -49,20 +63,6 @@ Tyto nástroje filtrují provoz na úrovni DNS (domén). Pokud seznam obsahuje k
 1. **Agresivnější blokování:** Pokud seznam obsahuje konkrétní podstránku na jinak legitimním webu, Pi-hole/AG Home **zablokuje přístup k celému tomuto webu**.
 2. **Falešná pozitiva:** Ve výjimečných případech se může stát, že bude nedostupná stránka, kterou běžně používáte, protože na ní ČOI detekovala rizikovou aktivitu.
 3. **Řešení:** Pokud potřebujete web nutně navštívit, přidejte si danou doménu do svého **Whitelistu** v administraci Pi-hole/AdGuard.
-
----
-
-## ⚡ Rychlá aktivace (One-Click)
-
-Pokud používáte **uBlock Origin** nebo **AdGuard** v prohlížeči, stačí kliknout na tlačítko níže a potvrdit odběr:
-
-<div align="center">
-
-[![Odebírat seznam](https://img.shields.io/badge/PŘIDAT_DO_PROHLÍŽEČE-DO_JEDNÉ_VTEŘINY-orange?style=for-the-badge&logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt&title=Czech%20Scam%20Stop%20(COI))
-
-*Kliknutím se automaticky otevře nastavení vašeho adblocku.*
-
-</div>
 
 ---
 
