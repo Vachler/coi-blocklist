@@ -26,23 +26,22 @@ Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 ---
 
 ### ℹ️ Informace o seznamu
-Zdroj: ČOI - Rizikové e-shopy
-
-Počet domén: Aktuálně cca 1000+
-Aktualizace: Automaticky každou půlnoc (přes GitHub Actions)
-Formát: AdGuard/uBlock kompatibilní ( ||domena.cz^ pro weby a domena.cz/cesta pro podstránky )
+* **Zdroj:** [ČOI - Rizikové e-shopy](https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/)
+* **Počet domén:** Aktuálně cca 1000+
+* **Aktualizace:** Automaticky každou půlnoc (přes GitHub Actions)
+* **Formát:** (`||domena.cz^ pro weby a domena.cz/cesta pro podstránky`)
 
 ---
 
 ### 🛠️ Podporované nástroje
 Tento seznam je optimalizován pro nejoblíbenější nástroje na ochranu soukromí:
 
-AdGuard (Mobil i Desktop)
-uBlock Origin (Prohlížeč)
-Pi-hole (Celá domácí síť)
+* **AdGuard (Mobil i Desktop)
+* **uBlock Origin (Prohlížeč)
+* **Pi-hole (Celá domácí síť)
 
 ---
 
 ### 💡 Proč to používat?
-Podvodné weby vznikají a zanikají během hodin. Díky tomuto skriptu nemusíte sledovat zprávy ani web ČOI – váš blokátor se každou noc "naučí" rozpoznat nové hrozby, které inspekce odhalila.
+* **Podvodné weby vznikají a zanikají během hodin. Díky tomuto skriptu nemusíte sledovat zprávy ani web ČOI – váš blokátor se každou noc "naučí" rozpoznat nové hrozby, které inspekce odhalila.
 
