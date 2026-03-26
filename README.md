@@ -4,10 +4,11 @@ Tento projekt automaticky generuje seznam rizikových e-shopů pro blokátory ty
 
 ---
 
-### 🚀 Odkaz pro odběr (Import link)
-Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
+### 🚀 Jak přidat do AdGuardu / uBlocku
+Zkopírujte tento odkaz a vložte jej do nastavení filtrů ve vaší aplikaci:
 
-👉 **[https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt](https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt)**
+```text
+https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt
 
 ---
 
@@ -20,5 +21,3 @@ Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 ### 🚀 Jak přidat do AdGuardu / uBlocku
 Zkopírujte tento odkaz a vložte jej do nastavení filtrů ve vaší aplikaci:
 
-```text
-https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt
