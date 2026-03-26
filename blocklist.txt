@@ -1,0 +1,22 @@
+! Title: Muj CZ & SK Blocklist
+! Description: Automaticky seznam rizikovych e-shopu (COI.cz + SOI.sk)
+! Expires: 1 days
+
+||alejtech.sk^
+||botycaterpillar.cz^
+||crps.pohladavkystatu.sk^
+||czjbvers.shop^
+||feeds.feedburner.com^
+||gov.sk^
+||kamagraobchod.com^
+||policies.google.com^
+||slovensko.sk^
+||soi.sk^
+||www.alejtech.sk^
+||www.google.com^
+||www.kabernet.sk^
+||www.ropk.sk^
+||www.slovensko.sk^
+||www.soi.sk^
+||www.w3.org^
+||zaraeshop.cz^
