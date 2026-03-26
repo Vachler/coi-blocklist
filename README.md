@@ -16,11 +16,7 @@ Neopisujte domény ručně. Stačí zkopírovat tento odkaz do vašeho blokátor
 https://raw.githubusercontent.com/Vachler/coi-blocklist/main/blocklist.txt
 ```
 
-<br>
-
-<kbd>$\color{yellow}{\textsf{\textbf{NEBO}}}$</kbd>
-
-<br>
+> ### $\color{gold}{\textsf{NEBO}}$
 
 Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 
