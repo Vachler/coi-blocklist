@@ -16,3 +16,9 @@ Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 * **Počet domén:** Aktuálně cca 950+
 * **Aktualizace:** Automaticky každou půlnoc (přes GitHub Actions)
 * **Formát:** AdGuard/uBlock kompatibilní (`||domena.cz^`)
+
+### 🚀 Jak přidat do AdGuardu / uBlocku
+Zkopírujte tento odkaz a vložte jej do nastavení filtrů ve vaší aplikaci:
+
+```text
+[https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt](https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt)
