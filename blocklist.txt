@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 01.04.2026 01:25
-# POČET POLOŽEK: 1076
+# AKTUALIZOVÁNO: 02.04.2026 01:15
+# POČET POLOŽEK: 1088
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -25,6 +25,7 @@
 ||abyte.online^
 ||achaet.com^
 ||adapterynotebooku.cz^
+||adelacoren.cz^
 ||adelakoukalova.store^
 ||adelapraha.cz^
 ||adhesionplum.com^
@@ -35,6 +36,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||afinhoew.shop^
 ||ahojahoj.com^
 ||aiglevyprodej.cz^
+||aikeyun.shop^
 ||airselfiecamera.com^
 ||airupczechrepublics.top^
 ||airydress.com^
@@ -369,6 +371,7 @@ globalpromotiontool.com/420/remibloston-med-m/gps/
 ||gmenace.monster^
 gmtpcy.com/ke-svym-109-narozeninam-czech/
 ||goldberghbunda.cz^
+||gorillarum.com^
 goslakinvest.pro/
 ||goteoffer.com^
 ||grafis-studio.cz^
@@ -448,6 +451,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||kafkapraha.cz^
 ||kalapsonia.cz^
 ||kalinapraga.com^
+||kalinapraha.cz^
 ||kamagraobchod.com^
 ||kamagrashop.sk^
 ||kantostarter.eu^
@@ -481,6 +485,7 @@ klinikaliberec.cz/lekarna
 ||kosile.shop^
 ||kraffler.lol^
 ||krajkaasklo.com^
+||kralovapraha.cz^
 ||krasa-moda.com^
 ||krasiva.cz^
 ||krasnaboutique.com^
@@ -501,6 +506,7 @@ laureshop.eu/cs
 ||laviquemoda.com^
 ||laviquepraha.com^
 ||lbres.shop^
+||leathermaneu-tool.com^
 ||leatheryouth.com^
 ||leffinata-cz.com^
 ||legeroeshop.com^
@@ -528,6 +534,7 @@ lingfluent.com/cs/
 ||littlepioneer.cz^
 ||liviastyl.cz^
 ||lmmstore.com^
+||lnceglae.monster^
 ||lnkuefeo.newherbalfito.com^
 ||lnvxnxso.sourcesphyto.com^
 loftyteam.com/normalife_cr/
@@ -545,6 +552,7 @@ lovecrazi.top/detail?id=dc007465-c161-4f19-a977-e7dea88e3101&path=ak_5606xtu376_
 ||lrui.store^
 ||lrvvzglc.bestwellbeings.com^
 ||lsplfwoz.newfitosources.com^
+||luckbg.com^
 luckysaleonline.com/page/4fd24b34549fb15308ecfa18a6dad68fe7ac6035/
 ||lufnpbht.fitoremedyheres.com^
 ||lujtf.shop^
@@ -614,6 +622,7 @@ naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||nbcz.cz^
 ||neatrichit.com^
 ||nelinkaresell.com^
+||neloraa.com^
 ||nemcovapraha.cz^
 ||neocard-cz.lillyblock.com^
 nevergiveupyourmind.com/420/ayurreadpro-med-m-genius/gps/
@@ -763,6 +772,7 @@ qsggh.com/ccrywyc
 ||radical-wear.cz^
 ||radkapraha.com^
 ||radzomo.com^
+||ralphlaurens.cz^
 ||rammicr.com^
 ||randecll.com^
 ||rcvih8dx.shop^
@@ -840,6 +850,7 @@ sidushe.com/d.php?product_id=cljjpmf&amp;pp=0&amp;epik=dj0yjnu9os1wsgh6ejjjbu43o
 ||siksilkcz.com^
 ||sikstylpraha.cz^
 ||simaginaryoir.shop^
+||simek-praha.com^
 ||simonapraha.cz^
 ||simonasperky.cz^
 ||simplepepper.top^
@@ -1002,6 +1013,7 @@ uspesnirodice.com/store
 ||vialeky.cz^
 ||vibeprimemag.com^
 ||victoriasecretcz.cz^
+||victorsecondhandmarket.com^
 ||vincileathershoes.cz^
 ||vintedworld.store^
 ||vipairucz.cc^
