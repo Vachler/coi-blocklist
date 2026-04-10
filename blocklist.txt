@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 09.04.2026 01:10
-# POČET POLOŽEK: 1088
+# AKTUALIZOVÁNO: 10.04.2026 01:20
+# POČET POLOŽEK: 1097
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -48,6 +48,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||alo-yoga.cz^
 ||aloyoga.cz^
 ||aloyogacz.com^
+||altra-online-com.myshoplaza.com^
 ||altracz.com^
 ||altrarunnerscz.com^
 ||altrarunningcz.cz^
@@ -326,6 +327,7 @@ eyewear4you.cz/wps/zvyazk/lupa.php
 ||fashionfashion.cz^
 ||faymoon.com^
 ||fcoklskodd.top^
+||fcshoppingmall.shop^
 ||fialovapraha.cz^
 fikldas-invest.pro/
 ||filacz.cz^
@@ -352,6 +354,7 @@ fikldas-invest.pro/
 ||gaemskb.club^
 ||gamey.cz^
 ||gamsgo.com^
+||garmins.cz^
 ||garni.online^
 ||gbrjah.store^
 ||geco-store-cz.com^
@@ -574,6 +577,7 @@ lzztcbuj.bestremedyforpeople.com/
 ||martina-praha.cz^
 ||martinaveronika.cz^
 ||masazekouzlodotekupraha.cz^
+||matchuji.cz^
 ||mc-go.ml^
 ||med-care24.com^
 ||medgroup.club^
@@ -612,6 +616,7 @@ milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||mraky-kostek.cz^
 ||mriiry.shop^
 muama-enence.net/enence/cz/001d1w/index.html
+||mujbajer.cz^
 ||mvqwlk.com^
 mycpagettipotok2.com/tlwt/l/
 mynutraresearch.com/new-detonic-cz-1/
@@ -719,6 +724,7 @@ ortodoncie-hradeckralove.cz/obchod
 patchoz.com/cz
 ||paulaschoicecz.com^
 ||pclvg.shop^
+||pelety-brikety.eu^
 ||pepejeanseshopcz.cz^
 ||perla-brno.cz^
 ||perlapraha.com^
@@ -818,6 +824,7 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||sanukeshop.cz^
 ||saoppon.com^
 ||satansdesign.com^
+||satinlodge.com^
 ||saucony-slovensko.sk^
 ||scratch-removercz.com^
 ||scuffers.cz^
@@ -862,6 +869,7 @@ sjuy.store/
 ||skechersoutlet.cz^
 ||skvela-moda.cz^
 ||skyeyes.shop^
+||slancks.com^
 ||sleva24.cz^
 ||slevakupon.cz^
 ||sneakersonmars.eu^
@@ -881,6 +889,7 @@ sjuy.store/
 spagetlink.com/ttej/l/
 ||speedcrossnettbutikk.com^
 ||speedydiscount-cesko.com^
+||sperkyvalentova.com^
 ||spinix.cz^
 ||splnsen.cz^
 ||sqnlin07.shop^
