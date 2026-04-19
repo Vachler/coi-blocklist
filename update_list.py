@@ -3,7 +3,7 @@ import re
 from datetime import datetime
 
 def update_blocklist():
-    url = "https://www.coi.cz/pro-spotrebitel/rizikove-e-shopy/"
+    url = "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/"
     
     try:
         r = requests.get(url)
