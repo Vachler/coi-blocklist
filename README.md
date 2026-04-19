@@ -39,7 +39,7 @@ Pokud používáte **uBlock Origin** nebo **AdGuard** v prohlížeči, stačí k
 ---
 
 ### ℹ️ Informace o seznamu
-* **Zdroj:** [ČOI - Rizikové e-shopy](https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/)
+* **Zdroj:** [ČOI - Rizikové e-shopy](https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/)
 * **Počet domén:** Aktuálně cca 1000+
 * **Aktualizace:** Automaticky každou půlnoc (přes GitHub Actions)
 * **Formát:** (`||domena.cz^`) pro weby a (`domena.cz/cesta`) pro podstránky
