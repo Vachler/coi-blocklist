@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 20.04.2026 01:27
-# POČET POLOŽEK: 1097
+# AKTUALIZOVÁNO: 21.04.2026 01:24
+# POČET POLOŽEK: 1104
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -239,6 +239,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||czech.e-energy-official.com^
 ||czech.hondrocream.shop^
 ||czech.shoppingnexa.com^
+||czechchildren.eu^
 ||czechsiksilk.com^
 ||czechstores.top^
 ||czfung.ru^
@@ -299,6 +300,7 @@ ducon.space/cs
 ||elyviane-praha.cz^
 ||emetaphysical.monster^
 ||emnot.cz^
+||enyoig.shop^
 ||equiwarmpro.co^
 ||erehearsem.monster^
 ||erendezvousm.lol^
@@ -413,6 +415,7 @@ hgje.store/m3ntsjnh2o00
 ||homegaden.com^
 ||hoodrichcz.cz^
 hot-shopping-review.com/420/prolesanpure-med-m/gps/
+||hover-cz.com^
 ||hranatost.cz^
 ||hs50bww.today^
 ||hsdfv.online^
@@ -438,6 +441,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||ishoppingworlds.com^
 ||izyurvfln.top^
 ||jana-zlin.cz^
+||janapetr.cz^
 ||janattwell.com^
 ||jareys.com^
 ||javeng.shop^
@@ -560,12 +564,14 @@ luckysaleonline.com/page/4fd24b34549fb15308ecfa18a6dad68fe7ac6035/
 ||lufnpbht.fitoremedyheres.com^
 ||lujtf.shop^
 ||lukasbarbora-brno.com^
+lulu12.online/slt651h0q800
 ||luluvibee.com^
 ||lunapraha.cz^
 ||lushivack.shop^
 ||lywepwfi.newinfozdrav.com^
 lzztcbuj.bestremedyforpeople.com/
 ||maisonpraha.cz^
+||makipro.store^
 ||mala-praha.com^
 ||mallinna.cz^
 ||mallinna.it^
@@ -728,6 +734,7 @@ patchoz.com/cz
 ||pepejeanseshopcz.cz^
 ||perla-brno.cz^
 ||perlapraha.com^
+||petrjana.cz^
 ||pilarie.com^
 ||pink-paradise.cz^
 ||pit-viper.cz^
