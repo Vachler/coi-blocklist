@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 21.04.2026 01:24
-# POČET POLOŽEK: 1104
+# AKTUALIZOVÁNO: 22.04.2026 01:23
+# POČET POLOŽEK: 1070
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -41,7 +41,6 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||airupczechrepublics.top^
 ||airydress.com^
 ||aizhongzhou.com^
-||aldoeshop.cz^
 ||alena-praha.cz^
 ||alimoder.com^
 ||allbirdsboty.cz^
@@ -61,7 +60,6 @@ archive.ulaanbaatar.mn/curl/m4/
 ||arctiqo.cz^
 ||ariat.cz^
 ||armedangels.cz^
-||ashcz.cz^
 ||asicscz.com^
 ||asicspraha.com^
 ||atelier-olomouc.cz^
@@ -81,7 +79,6 @@ archive.ulaanbaatar.mn/curl/m4/
 ||bdric34.world^
 ||bebince.com^
 ||bedernioperkacz.com^
-beintro.site/
 ||beistravel.cz^
 ||bellcasual.com^
 ||belleef.com^
@@ -125,7 +122,6 @@ bunfader-investing.eu/
 buy.layoners.com/cz/slunecni-bryle-racer/
 ||buyandorder.com^
 ||buycz.shop^
-||buyfivestore.com^
 ||buyonepay.com^
 ||caeuollmakerts.store^
 ||canyonhugesavings.com^
@@ -147,7 +143,6 @@ central2013.eu/keto-diet/
 centrumnavyku.cz/obchod
 ||cerd.cz^
 ||certifikatlevne.cz^
-ceska-televize.kantaapnews.com/?utm_medium=23857451519870221&utm_campaign=kiplrlaiwlaiwlvib&fbclid=iwar33g8lsbi0m0zivijptggzdg-_fqerxrffkmiyiwpq3r6-pjpzzlahgof0
 ||ceskomikulovskakuchyne.com^
 ||cewzone.shop^
 ||change-of-assets.com^
@@ -168,7 +163,6 @@ ceska-televize.kantaapnews.com/?utm_medium=23857451519870221&utm_campaign=kiplrl
 ||coachcz.cz^
 ||comme-des-garcons.cz^
 communityoffersdaily.com/420/nttwbv2/
-||converseczeshop.cz^
 ||cos-czechrepublic.cz^
 ||coseshopcz.cz^
 cpagettigeneral7.com/t6uc/l/
@@ -248,7 +242,6 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||czjbvers.shop^
 ||czoline.com^
 ||czsale.2021shoponline.com^
-||czsale.2023discountoutlets.com^
 ||czyogashop.com^
 dailygizmoshop.com/black-curtain-cz
 ||damecbd.eu^
@@ -259,7 +252,6 @@ daunag.store/cz/
 ||dcczech.com^
 ||ddsad.shop^
 ||dealsllovers.com^
-||deeplin.shop^
 ||delvauxandco-cz.com^
 ||demonslayer.cz^
 ||denninabidka.com^
@@ -269,7 +261,6 @@ daunag.store/cz/
 ||deuters.cz^
 ||dfyne.cz^
 ||diapromin-cz.peoplestorry.com^
-didlasower-invest.pro/
 ||difmark.com^
 ||discountsales.2023factory.ru^
 ||disposaa.shop^
@@ -291,8 +282,6 @@ ducon.space/cs
 ||edhardy-cz.cz^
 ||egyptkosmetika.cz^
 ||eheed.monster^
-||elaniea.shop^
-||elbowdg.online^
 ||electro-market.cz^
 ||elfshop.cz^
 ||eliskabartova.com^
@@ -333,7 +322,6 @@ eyewear4you.cz/wps/zvyazk/lupa.php
 ||fialovapraha.cz^
 fikldas-invest.pro/
 ||filacz.cz^
-||fischerair.eu^
 ||fitcelenka.myshopify.com^
 ||fivora.cz^
 ||fixwalks.com^
@@ -377,10 +365,8 @@ globalpromotiontool.com/420/remibloston-med-m/gps/
 gmtpcy.com/ke-svym-109-narozeninam-czech/
 ||goldberghbunda.cz^
 ||gorillarum.com^
-goslakinvest.pro/
 ||goteoffer.com^
 ||grafis-studio.cz^
-||grammebr.shop^
 ||greecove.com^
 ||greekoyo.com^
 ||groershop.com^
@@ -401,8 +387,6 @@ health-news-2021.com/ketoz-cz-vy/
 health-spa-award.com/czp1/
 ||heiduk.cz^
 ||hello-deals.com^
-||hellyhansenbundy.cz^
-||hellyhansencz.cz^
 hgje.store/m3ntsjnh2o00
 ||hiousserp.monster^
 ||hobby-eshop.cz^
@@ -427,7 +411,6 @@ hot-shopping-review.com/420/prolesanpure-med-m/gps/
 ||hxhjk.myshopify.com^
 ||hydroflasktermoska.cz^
 ||icebug-eshop.cz^
-||icell.cz^
 immstability.today/
 ||independentlife.shop^
 infoscrolling.com/420/taneralpro2-sakura/gps/
@@ -444,7 +427,6 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||janapetr.cz^
 ||janattwell.com^
 ||jareys.com^
-||javeng.shop^
 ||jdaptablej.monster^
 ||jeesku.com^
 ||jiridrevo.cz^
@@ -462,7 +444,6 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||kamagraobchod.com^
 ||kamagrashop.sk^
 ||kantostarter.eu^
-||karllagerfeldcz.com^
 ||karoline-praha.com^
 ||kartalin-mast.cz^
 ||katerinapraha.cz^
@@ -483,7 +464,6 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||klarapraha.com^
 klinikaliberec.cz/lekarna
 ||kmd-pelety.com^
-||koala-express.eu^
 ||kobiecamoda.shop^
 ||kodykuponu.com^
 ||koifootwear.cz^
@@ -512,9 +492,7 @@ klinikaliberec.cz/lekarna
 laureshop.eu/cs
 ||laviquemoda.com^
 ||laviquepraha.com^
-||lbres.shop^
 ||leathermaneu-tool.com^
-||leatheryouth.com^
 ||leffinata-cz.com^
 ||legeroeshop.com^
 ||leguanovyprodej.com^
@@ -540,7 +518,6 @@ lingfluent.com/cs/
 ||liorapraha.cz^
 ||littlepioneer.cz^
 ||liviastyl.cz^
-||lmmstore.com^
 ||lnceglae.monster^
 ||lnkuefeo.newherbalfito.com^
 ||lnvxnxso.sourcesphyto.com^
@@ -549,7 +526,6 @@ loftyteam.com/normalife_cr/
 ||longchampkabelka.cz^
 ||loopearplugs.cz^
 ||louboutinboty.cz^
-||love-puls.shop^
 lovecrazi.top/detail?id=dc007465-c161-4f19-a977-e7dea88e3101&path=ak_5606xtu376_y
 ||loveeds.com^
 ||lovina.cz^
@@ -615,7 +591,6 @@ milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||modnidumpraha.cz^
 ||modovaprague.com^
 ||momohdesign.com^
-||moneytg.shop^
 ||monttsstore.com^
 ||moravecbrno.com^
 ||motorwarenhuis.de^
@@ -638,7 +613,6 @@ naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||neocard-cz.lillyblock.com^
 nevergiveupyourmind.com/420/ayurreadpro-med-m-genius/gps/
 ||newadvanceremedy.com^
-news.cez-group.xfanclubs.com/?utm_medium=6413958084123&utm_campaign=kptranwyawvb&fbclid=iwar3uu0pflztnxiay5rcpsfm5u1u9zhzassyhtwzkcav-wzdqd7rat-atk4o
 ||newsstart.i-i-i.top^
 newsyoucanread24.com/article/coldin_cz/jeste-pred-3-tydny-chodila-jenom-s-berlemi/
 ||nfdxfg.shop^
@@ -656,7 +630,6 @@ nirt.co.uk/cs/artroser/
 ||noolacz.eu^
 ||nordictrack.site^
 ||norelloo.com^
-||noreo.cz^
 ||normoons.com^
 ||norvapraha.cz^
 ||novak-atelier.cz^
@@ -781,7 +754,6 @@ qsggh.com/ccrywyc
 ||querid.top^
 ||rabat8.shop^
 ||rabbunda.cz^
-||racers.sk^
 ||radical-wear.cz^
 ||radkapraha.com^
 ||radzomo.com^
@@ -815,11 +787,9 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||rotovaurvananoha.com^
 ||rotto-garage.com^
 ||rrivica.com^
-||rtiglassesshop.com^
 ||rueporter.com^
 ||rufico-czech.com^
 ||rwblvtfc.com^
-||ryderwear.cz^
 ||sale-big.live^
 ||sale.dopesnower.com^
 ||sale.montece.com^
@@ -886,7 +856,6 @@ sjuy.store/
 ||sofieliberec.cz^
 ||solar-group.cz^
 ||solarniledlampa-cz.com^
-||soloustores.com^
 ||solovaircz.top^
 ||sorelpraha.net^
 ||sotiti.com^
@@ -975,7 +944,6 @@ thecivicpost.com/powersaver-cz?sub2=mkztqbk3ngddv7jj59wifmftmv
 ||triumphdiscount.com^
 ||trivora-praha.cz^
 ||trumerse.com^
-||try.articblast.co^
 ||tsanlo.com^
 ||tuckerandwelch.com^
 ||tunican.shop^
@@ -1028,7 +996,6 @@ uspesnirodice.com/store
 ||vhafr.com^
 ||vialeky.cz^
 ||vibeprimemag.com^
-||victoriasecretcz.cz^
 ||victorsecondhandmarket.com^
 ||vincileathershoes.cz^
 ||vintedworld.store^
@@ -1085,7 +1052,6 @@ yousteround.com/cs-cz
 ||zahradnikem-nedopatrenim.cz^
 ||zakozpc.com^
 ||zaploss.com^
-||zaraczeshop.com^
 ||zaraeshop.cz^
 ||zareefashion.com^
 ||zaria-brno.com^
