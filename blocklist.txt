@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 30.04.2026 01:53
-# POČET POLOŽEK: 1070
+# AKTUALIZOVÁNO: 01.05.2026 01:55
+# POČET POLOŽEK: 1083
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -65,6 +65,7 @@ archive.ulaanbaatar.mn/curl/m4/
 ||atelier-olomouc.cz^
 ||auchansupermarket.shop^
 ||aurelia-praha.cz^
+||autodilyexpres.com^
 ||aventraclothes.com^
 ||aybl.cz^
 ||b92eegumoc.store^
@@ -109,6 +110,8 @@ bnbgtp.shop/n3ji80c9fk00
 ||botycaterpillar.cz^
 ||botyduckfeetcz.com^
 ||botyosiris.cz^
+||boutiquesecondhand.vip^
+||boxpro-cz.com^
 ||bozenas-tasky.cz^
 ||breedenesintacon.tk^
 ||brevilles.cz^
@@ -116,6 +119,7 @@ bnbgtp.shop/n3ji80c9fk00
 ||bricoshopper.com^
 ||briskrd.com^
 ||brooksrunning-cz.com^
+||bsavages.monster^
 ||buechliebhaberclub.com^
 ||bundycz.cz^
 bunfader-investing.eu/
@@ -282,6 +286,7 @@ ducon.space/cs
 ||edhardy-cz.cz^
 ||egyptkosmetika.cz^
 ||eheed.monster^
+||ekodrevo.com^
 ||electro-market.cz^
 ||elfshop.cz^
 ||eliskabartova.com^
@@ -410,6 +415,7 @@ hot-shopping-review.com/420/prolesanpure-med-m/gps/
 ||hvssdsv.shop^
 ||hxhjk.myshopify.com^
 ||hydroflasktermoska.cz^
+||hypermarketcz.shop^
 ||icebug-eshop.cz^
 immstability.today/
 ||independentlife.shop^
@@ -546,6 +552,7 @@ lulu12.online/slt651h0q800
 ||lushivack.shop^
 ||lywepwfi.newinfozdrav.com^
 lzztcbuj.bestremedyforpeople.com/
+||magdalena-praha.cz^
 ||maisonpraha.cz^
 ||makipro.store^
 ||mala-praha.com^
@@ -598,6 +605,7 @@ milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||mriiry.shop^
 muama-enence.net/enence/cz/001d1w/index.html
 ||mujbajer.cz^
+||muzikashop.com^
 ||mvqwlk.com^
 mycpagettipotok2.com/tlwt/l/
 mynutraresearch.com/new-detonic-cz-1/
@@ -611,6 +619,7 @@ naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||neloraa.com^
 ||nemcovapraha.cz^
 ||neocard-cz.lillyblock.com^
+||nerrxs.shop^
 nevergiveupyourmind.com/420/ayurreadpro-med-m-genius/gps/
 ||newadvanceremedy.com^
 ||newsstart.i-i-i.top^
@@ -619,6 +628,7 @@ newsyoucanread24.com/article/coldin_cz/jeste-pred-3-tydny-chodila-jenom-s-berlem
 ||nhlnakupovani.com^
 ||nicliquid.com^
 ||nikecz.cz^
+||niningtra.com^
 nirt.co.uk/cs/artroser/
 ||niubianran.shop^
 ||nlyrico.lol^
@@ -850,6 +860,7 @@ sjuy.store/
 ||sleva24.cz^
 ||slevakupon.cz^
 ||sneakersonmars.eu^
+||sneakroll.cz^
 ||snudge.lol^
 ||sofiaplzen.cz^
 ||sofie-brno.cz^
@@ -1014,6 +1025,7 @@ uspesnirodice.com/store
 ||vsintace.top^
 ||vxqhb.com^
 ||vybe.cz^
+||vypestujto.webnode.cz^
 ||wanderheat.com^
 ||wassupsneakers.de^
 ||waxanityrp.sellhub.cx^
@@ -1023,6 +1035,7 @@ uspesnirodice.com/store
 ||wellensteynbundy.cc^
 ||wellness-sprchovahlavice-cz.com^
 ||welovedoxies.com^
+||wentcedatenv.club^
 ||westri.top^
 ||wfasdiuo.shop^
 ||whatchiddd.com^
