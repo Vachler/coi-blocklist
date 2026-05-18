@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 17.05.2026 01:57
-# POČET POLOŽEK: 1062
+# AKTUALIZOVÁNO: 18.05.2026 02:09
+# POČET POLOŽEK: 1069
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -98,6 +98,7 @@ besttovarsale.com/page/605cf8f3cfe5036e41bbe16a244f9cde0cd91ba0/
 ||biux.net^
 ||biziboiz.com^
 ||blaha-moda.cz^
+||blakeandcarter.com^
 ||blockchain.com^
 ||bluejadefinds.com^
 ||boilingsmart.com^
@@ -314,6 +315,7 @@ eusales.shop/products/therapeutic-device
 ||evropa-pelety.eu^
 ||ewoman.cz^
 eyewear4you.cz/wps/zvyazk/lupa.php
+||fabulous-sale.com^
 ||fafasecond-hand888.shop^
 ||fashionfashion.cz^
 ||faymoon.com^
@@ -402,6 +404,7 @@ hot-shopping-review.com/420/prolesanpure-med-m/gps/
 ||hs50bww.today^
 ||hsdfv.online^
 ||htnyzb.com^
+||hudebnishop.com^
 ||humanbynature.co^
 ||hunterholinky.cc^
 ||hunterholinky.cz^
@@ -561,6 +564,7 @@ lzztcbuj.bestremedyforpeople.com/
 ||med-care24.com^
 ||medgroup.club^
 ||medvidekterapie.cz^
+||megaobchod.com^
 ||megaslevy.com^
 ||meindlcz.cz^
 ||meiougo.com^
@@ -600,6 +604,7 @@ mynutraresearch.com/new-detonic-cz-1/
 ||nabytekcz.com^
 ||nagimi.com^
 ||naleapraha.com^
+||naradidily.com^
 naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||nbcz.cz^
 ||neatrichit.com^
@@ -786,6 +791,7 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||rotto-garage.com^
 ||rueporter.com^
 ||rufico-czech.com^
+||rutrostore.com^
 ||rwblvtfc.com^
 ||sale-big.live^
 ||sale.dopesnower.com^
@@ -1029,6 +1035,7 @@ worldtriviacenter.com/420/movenol2-m-med/gps/
 ||wrmfw.shop^
 ||wshflav.lol^
 ||wworseou.lol^
+||xmredmi.shop^
 ||xxlobchod.com^
 ||yexard.com^
 ||yiqwniz.com^
