@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 02.06.2026 02:34
-# POČET POLOŽEK: 1079
+# AKTUALIZOVÁNO: 03.06.2026 02:41
+# POČET POLOŽEK: 1097
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -37,6 +37,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||ahojahoj.com^
 ||aiglevyprodej.cz^
 ||aikeyun.shop^
+||aino-elias-turku.com^
 ||airselfiecamera.com^
 ||airupczechrepublics.top^
 ||airydress.com^
@@ -68,6 +69,7 @@ archive.ulaanbaatar.mn/curl/m4/
 ||auroraklenoty.cz^
 ||autodilyczech.com^
 ||autodilyexpres.com^
+||autokoutek.com^
 ||aventraclothes.com^
 ||aybl.cz^
 ||b92eegumoc.store^
@@ -182,6 +184,7 @@ crazyprodnew.com/
 ||creeledcz.com^
 crypsome.click/ffmyv1?click_id=6422c6236ebed20001208132&pid=2&sub3=207244268613304
 ||cryptoeddu.com^
+||crystalli.cz^
 ||cyun.sanni.store^
 ||cz-cardio-nrj.beauty-shopping.net^
 ||cz-eretron-aktiv.greatest-shop.com^
@@ -233,6 +236,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||cz3.landntrv.com^
 ||cz4.ketodietnd.com^
 ||czalpinepro.shop^
+||czautodily.com^
 ||cze.dwczd.top^
 ||czech-germixil.beauty-goods.biz^
 ||czech-newyear-offers.shop^
@@ -247,12 +251,15 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||czh.tactical-xdrone.newsalepro.com^
 ||czhairperfecta.markmax.site^
 ||czjbvers.shop^
+||czmadwrap.store^
 ||czoline.com^
 ||czsale.2021shoponline.com^
 ||czyogashop.com^
 dailygizmoshop.com/black-curtain-cz
 ||damecbd.eu^
+||damevyzvu.cz^
 ||dana-praha.cz^
+||darinapraha.cz^
 ||dashingsoul.com^
 ||datalistshop.com^
 ||dcczech.com^
@@ -268,6 +275,7 @@ dailygizmoshop.com/black-curtain-cz
 ||dfyne.cz^
 ||diapromin-cz.peoplestorry.com^
 ||difmark.com^
+||dilnaauto.com^
 ||discountsales.2023factory.ru^
 ||disposaa.shop^
 ||doctorlights.com^
@@ -388,6 +396,7 @@ gmtpcy.com/ke-svym-109-narozeninam-czech/
 ||gymsharkczstore.cz^
 ||halfht.shop^
 ||hana-praha.cz^
+||hanabutik.cz^
 ||happyshop-cz.com^
 ||health-blog.me^
 health-news-2021.com/ketoz-cz-vy/
@@ -432,6 +441,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||jana-alena.com^
 ||jana-zlin.cz^
 ||janapetr.cz^
+||janaplzen.cz^
 ||janattwell.com^
 ||jareys.com^
 ||jeesku.com^
@@ -470,6 +480,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||klenotymarie.cz^
 klinikaliberec.cz/lekarna
 ||kmd-pelety.com^
+||knihokapsa.shop^
 ||kobiecamoda.shop^
 ||kodykuponu.com^
 ||koifootwear.cz^
@@ -482,6 +493,7 @@ klinikaliberec.cz/lekarna
 ||krasa-moda.com^
 ||krasiva.cz^
 ||krasnaboutique.com^
+||kratchequi.store^
 ||krista-praha.cz^
 ||kristinn.shop^
 ||kristynapraha.cz^
@@ -555,6 +567,7 @@ lzztcbuj.bestremedyforpeople.com/
 ||maisonlys-cz.com^
 ||maisonpraha.cz^
 ||makipro.store^
+||makiprocz.store^
 ||mala-praha.com^
 ||mallinna.cz^
 ||mallinna.it^
@@ -567,6 +580,7 @@ lzztcbuj.bestremedyforpeople.com/
 ||martinaveronika.cz^
 ||masazekouzlodotekupraha.cz^
 ||matchuji.cz^
+||mazlickof.cz^
 ||mc-go.ml^
 ||med-care24.com^
 ||medgroup.club^
@@ -714,6 +728,7 @@ ortodoncie-hradeckralove.cz/obchod
 patchoz.com/cz
 ||paulaschoicecz.com^
 ||pclvg.shop^
+||pdrevo-mrackova.com^
 ||pelety-brikety.eu^
 ||pepejeanseshopcz.cz^
 ||perla-brno.cz^
@@ -798,6 +813,7 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||rosella-fashion.com^
 ||rotovaurvananoha.com^
 ||rotto-garage.com^
+||rubbertpx.com^
 ||rueporter.com^
 ||rufico-czech.com^
 ||rutrostore.com^
@@ -868,6 +884,7 @@ sjuy.store/
 ||solar-group.cz^
 ||solarniledlampa-cz.com^
 ||solovaircz.top^
+||sopik24.cz^
 ||sorelpraha.net^
 ||sotiti.com^
 ||soundcores.cz^
@@ -1036,6 +1053,7 @@ uspesnirodice.com/store
 ||wfasdiuo.shop^
 ||whatchiddd.com^
 ||whbizjzu.shop^
+||wheelproz.com^
 ||wildmooncz.shop^
 ||woombike.cz^
 worldkv.com/pwn8rjvs
