@@ -1,6 +1,6 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 22.06.2026 02:40
+# AKTUALIZOVÁNO: 23.06.2026 02:06
 # POČET POLOŽEK: 1112
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
