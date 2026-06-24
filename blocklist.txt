@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 23.06.2026 02:06
-# POČET POLOŽEK: 1112
+# AKTUALIZOVÁNO: 24.06.2026 02:08
+# POČET POLOŽEK: 1119
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -70,6 +70,7 @@ archive.ulaanbaatar.mn/curl/m4/
 ||autodilyczech.com^
 ||autodilyexpres.com^
 ||autokoutek.com^
+||autolux-czh.com^
 ||aventraclothes.com^
 ||aybl.cz^
 ||b92eegumoc.store^
@@ -236,6 +237,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||cz3.cannadiabv.com^
 ||cz3.landlrev.com^
 ||cz3.landntrv.com^
+||cz3130.herhmpa.shop^
 ||cz4.ketodietnd.com^
 ||czalpinepro.shop^
 ||czautodily.com^
@@ -251,6 +253,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||czechstores.top^
 ||czfung.ru^
 ||czh.tactical-xdrone.newsalepro.com^
+||czh0528.htathbia.shop^
 ||czhairperfecta.markmax.site^
 ||czjbvers.shop^
 ||czmadwrap.store^
@@ -335,6 +338,7 @@ eusales.shop/products/therapeutic-device
 eyewear4you.cz/wps/zvyazk/lupa.php
 ||fabulous-sale.com^
 ||fafasecond-hand888.shop^
+||fantar.shop^
 ||fashionfashion.cz^
 ||faymoon.com^
 ||fcoklskodd.top^
@@ -435,6 +439,7 @@ hot-shopping-review.com/420/prolesanpure-med-m/gps/
 ||independentlife.shop^
 infoscrolling.com/420/taneralpro2-sakura/gps/
 ||innovaperfect.com^
+||instalater-shop.com^
 ||inuikiicz.cz^
 ||ipanemavyprodej.cz^
 ||ipermediaservizi.it^
@@ -629,6 +634,7 @@ muama-enence.net/enence/cz/001d1w/index.html
 ||muzikashop.com^
 ||mvqwlk.com^
 mycpagettipotok2.com/tlwt/l/
+||myfurtag.cz^
 mynutraresearch.com/new-detonic-cz-1/
 ||nabytekcz.com^
 ||nagimi.com^
@@ -909,6 +915,7 @@ spagetlink.com/ttej/l/
 ||sqnlin07.shop^
 ||stanleycup.cz^
 ||starsneakers.eu^
+||stavexpro.com^
 ||store.providerp.eu^
 ||storecze.com^
 stronginfo24.com/420/formelan-med-m/gps/
