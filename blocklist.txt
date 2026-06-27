@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 26.06.2026 02:09
-# POČET POLOŽEK: 1119
+# AKTUALIZOVÁNO: 27.06.2026 02:05
+# POČET POLOŽEK: 1118
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -719,7 +719,6 @@ onlineoffertstore.com/air-curtain-rep-ceca-pmax/?gad_source=1&amp;gclid=cj0kcqjw
 ||orisalecabestblzmbusi.com^
 ||ormolulondon.com^
 ||ororowearcz.com^
-||orthomax.cz^
 ortodoncie-hradeckralove.cz/obchod
 ||ortovox-eu.shop^
 ||orva-paris.com^
