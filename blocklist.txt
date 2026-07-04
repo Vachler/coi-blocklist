@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 03.07.2026 01:51
-# POČET POLOŽEK: 1118
+# AKTUALIZOVÁNO: 04.07.2026 01:50
+# POČET POLOŽEK: 1135
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -57,6 +57,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||anezka-brno.cz^
 ||annafieldcz.cz^
 ||antikwariat.cz^
+||antoniepraha.cz^
 archive.ulaanbaatar.mn/curl/m4/
 ||arctiqo.cz^
 ||ariat.cz^
@@ -225,6 +226,7 @@ cz.lekarskereporteri24.com/article/weightloss_cz/prulom-v-boji-s-obezitou/
 ||cz.thexdrone.org^
 ||cz.wlosnd.com^
 ||cz.zavgor.com^
+||cz0613.enerrunfreo.shop^
 cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||cz1.alkotoxv.com^
 ||cz1.flekobalm.pro^
@@ -399,6 +401,8 @@ gmtpcy.com/ke-svym-109-narozeninam-czech/
 ||guccisk.sk^
 ||guessczonline.com^
 ||guilaiyoushe.com^
+||gullveig.app^
+||gustbun.com^
 ||gymsharkcz.cz^
 ||gymsharkczeshop.cz^
 ||gymsharkczstore.cz^
@@ -444,6 +448,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||ipanemavyprodej.cz^
 ||ipermediaservizi.it^
 ||iphone-9.com^
+||isabelmode.com^
 ||ishop-cz.com^
 ||ishoppingworlds.com^
 ||izyurvfln.top^
@@ -586,6 +591,7 @@ lzztcbuj.bestremedyforpeople.com/
 ||marekmoda.cz^
 ||margginkcorcite.tk^
 ||marie-moda.cz^
+||marieajosefklenotnictvi.com^
 ||marklv.cz^
 ||martenscz.com^
 ||martina-praha.cz^
@@ -613,6 +619,8 @@ milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||miourve.com^
 ||mira-butik.com^
 ||mixmoa.com^
+||mktoutlet.store^
+||mktoutletcz.store^
 ||mluvicikrecek-cz.com^
 ||mnfws.shop^
 ||mobilerushstore.store^
@@ -675,6 +683,7 @@ nirt.co.uk/cs/artroser/
 ||normoons.com^
 ||norvapraha.cz^
 ||notinstorecz.com^
+||novagauge.shop^
 ||novak-atelier.cz^
 ||novak-brno.cz^
 ||novak-praha.cz^
@@ -739,11 +748,13 @@ ortodoncie-hradeckralove.cz/obchod
 ||parasias.com^
 ||parksidecz.com^
 ||parksidejmstore.com^
+||partenzo.com^
 ||patagonia-cz.cz^
 patchoz.com/cz
 ||paulaschoicecz.com^
 ||pclvg.shop^
 ||pdrevo-mrackova.com^
+||pelety-a-drevo.com^
 ||pelety-brikety.eu^
 ||pepejeanseshopcz.cz^
 ||perla-brno.cz^
@@ -843,6 +854,7 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||saleegoods.com^
 ||salewaeshop.cz^
 ||salomoncz.com^
+||sanitainstal.com^
 ||sanukeshop.cz^
 ||saoppon.com^
 ||satansdesign.com^
@@ -870,6 +882,7 @@ shop.bymbymp.shop/jgibf9ft
 ||shopcz.cc^
 ||shopfasts.shop^
 shopoonline4.com/tkfb/l/
+||shoppyoffer.com^
 ||shoprosea.cz^
 ||shopsaea.com^
 ||shoptoptovar.com^
@@ -976,6 +989,7 @@ thecivicpost.com/powersaver-cz?sub2=mkztqbk3ngddv7jj59wifmftmv
 ||toniescesko.com^
 ||toonzshop.cz^
 ||topeo.cz^
+||toposhoes.cz^
 ||topshop-eu.com^
 ||topvision-cz.com^
 ||topwebsshop.com^
@@ -984,6 +998,7 @@ thecivicpost.com/powersaver-cz?sub2=mkztqbk3ngddv7jj59wifmftmv
 ||trapstar.cz^
 ||trapstarczeshop.cz^
 ||trhbns.shop^
+||tricatasesta.bigcartel.com^
 ||trinlk.com^
 ||triumphdiscount.com^
 ||trivora-praha.cz^
@@ -1056,6 +1071,7 @@ uspesnirodice.com/store
 ||vova.com^
 ||vpftrm.com^
 ||vrchol-zima.cz^
+||vseprohudbu.com^
 ||vsintace.top^
 ||vxqhb.com^
 ||vybe.cz^
@@ -1096,6 +1112,7 @@ youreduspace.com/420/lingfluent-med/
 yourmarket24.com/420/nutresin-med/gps/
 yousteround.com/cs-cz
 ||yummy-yump.com^
+||zahradadily.com^
 ||zahradnikem-nedopatrenim.cz^
 ||zakozpc.com^
 ||zaploss.com^
