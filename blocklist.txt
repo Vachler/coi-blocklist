@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 20.07.2026 03:00
-# POČET POLOŽEK: 1151
+# AKTUALIZOVÁNO: 21.07.2026 01:27
+# POČET POLOŽEK: 1155
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -274,6 +274,7 @@ dailygizmoshop.com/black-curtain-cz
 ||dashingsoul.com^
 ||datalistshop.com^
 ||dcczech.com^
+||ddcd8.shop^
 ||ddsad.shop^
 ||dealsllovers.com^
 ||delvauxandco-cz.com^
@@ -781,6 +782,7 @@ patchoz.com/cz
 ||poeust.com^
 ||poisoil.shop^
 ||pokeme.cz^
+||pokemon-center.cz^
 ||polene.cz^
 ||poleneparis.cz^
 ||polenepariskabelkycz.com^
@@ -805,6 +807,7 @@ praiseglories.info/12-zpusobu-jak-vytvorit-a-take-rozvijet-profesionalni-schopno
 ||primarkpraha.com^
 ||primechnnls.com^
 ||primediscount24.com^
+||procuratte.com^
 ||profit-farma.com^
 ||progettidivini.cz^
 ||pronlineoffertstore.com^
@@ -1115,6 +1118,7 @@ worldtriviacenter.com/420/movenol2-m-med/gps/
 ||wrmfw.shop^
 ||wshflav.lol^
 ||wworseou.lol^
+||xlnuu.com^
 ||xmredmi.shop^
 ||xxlobchod.com^
 ||yexard.com^
