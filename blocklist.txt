@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 27.07.2026 01:51
-# POČET POLOŽEK: 1155
+# AKTUALIZOVÁNO: 28.07.2026 01:25
+# POČET POLOŽEK: 1165
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -56,6 +56,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||anekkecz.eu^
 ||anezka-brno.cz^
 ||annafieldcz.cz^
+||ansformationtra.com^
 ||antikwariat.cz^
 ||antoniepraha.cz^
 archive.ulaanbaatar.mn/curl/m4/
@@ -192,6 +193,7 @@ crazyprodnew.com/
 crypsome.click/ffmyv1?click_id=6422c6236ebed20001208132&pid=2&sub3=207244268613304
 ||cryptoeddu.com^
 ||crystalli.cz^
+||currentbody-cz.cz^
 ||cyleva.com^
 ||cyun.sanni.store^
 ||cz-cardio-nrj.beauty-shopping.net^
@@ -226,6 +228,7 @@ cz.lekarskereporteri24.com/article/weightloss_cz/prulom-v-boji-s-obezitou/
 ||cz.nanovein.eu^
 ||cz.onlinecheap2021.ru^
 ||cz.smartservemall.com^
+||cz.svysoro.com^
 ||cz.thetrackkey.com^
 ||cz.thexdrone.org^
 ||cz.wlosnd.com^
@@ -414,6 +417,7 @@ gmtpcy.com/ke-svym-109-narozeninam-czech/
 ||gymsharkczstore.cz^
 ||halfht.shop^
 ||hana-praha.cz^
+||hanabrno.cz^
 ||hanabutik.cz^
 ||happyshop-cz.com^
 ||health-blog.me^
@@ -448,6 +452,7 @@ hot-shopping-review.com/420/prolesanpure-med-m/gps/
 ||hypermarketcz.shop^
 ||icebug-eshop.cz^
 ||independentlife.shop^
+||indiespine.com^
 infoscrolling.com/420/taneralpro2-sakura/gps/
 ||innovaperfect.com^
 ||instalater-shop.com^
@@ -488,6 +493,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||katerinapraha.cz^
 ||kazareshop.cz^
 ||kdcorr.monster^
+||kdglar.monster^
 ||keen-cz.com^
 ||keen001.myshoplaza.com^
 ||keenvyprodej.cz^
@@ -498,6 +504,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||kicksoi.eu^
 ||kidszona.cz^
 ||killstarcz.cz^
+||kiltorvnex.com^
 ||kiwjhc.com^
 ||kklsmm.com^
 ||klarapraha.com^
@@ -628,6 +635,7 @@ mercatoincasa.com/fast-mower-isla-cze/#ordernow
 ||milapraha.cz^
 milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||milenapraha.cz^
+||minki-cz.com^
 ||miourve.com^
 ||mira-butik.com^
 ||mixmoa.com^
@@ -942,6 +950,7 @@ spagetlink.com/ttej/l/
 ||sperkyvalentova.com^
 ||spinix.cz^
 ||sqnlin07.shop^
+||sroilb.monster^
 ||stanleycup.cz^
 ||starsneakers.eu^
 ||stavexpro.com^
@@ -1070,6 +1079,7 @@ uspesnirodice.com/store
 ||veronika-butik.com^
 ||vessieshop.cz^
 ||veteranspridelandscaping.com^
+||vexhike.com^
 ||vhafr.com^
 ||vialeky.cz^
 ||vibeprimemag.com^
