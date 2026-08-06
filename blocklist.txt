@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 05.08.2026 01:27
-# POČET POLOŽEK: 1165
+# AKTUALIZOVÁNO: 06.08.2026 01:24
+# POČET POLOŽEK: 1186
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -34,6 +34,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||aenact.lol^
 ||aercruft.com^
 ||afinhoew.shop^
+||ahdfjkas.com^
 ||ahojahoj.com^
 ||aiglevyprodej.cz^
 ||aikeyun.shop^
@@ -52,6 +53,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||altracz.com^
 ||altrarunnerscz.com^
 ||altrarunningcz.cz^
+||ameliapraha.com^
 ||amilara.com^
 ||anekkecz.eu^
 ||anezka-brno.cz^
@@ -63,6 +65,7 @@ archive.ulaanbaatar.mn/curl/m4/
 ||arctiqo.cz^
 ||ariat.cz^
 ||armedangels.cz^
+||asics-outlet.cz^
 ||asicscz.com^
 ||asicspraha.com^
 ||atelier-olomouc.cz^
@@ -74,6 +77,7 @@ archive.ulaanbaatar.mn/curl/m4/
 ||autodilyexpres.com^
 ||autokoutek.com^
 ||autolux-czh.com^
+||autolux-rohoz.com^
 ||autozona360.com^
 ||aventraclothes.com^
 ||aybl.cz^
@@ -112,6 +116,7 @@ besttovarsale.com/page/605cf8f3cfe5036e41bbe16a244f9cde0cd91ba0/
 ||blakeandcarter.com^
 ||blockchain.com^
 ||bluejadefinds.com^
+||bohemiafix.com^
 ||boilingsmart.com^
 ||booho.sk^
 ||bookevenement.com^
@@ -152,6 +157,7 @@ buy.layoners.com/cz/slunecni-bryle-racer/
 ||cblhota.cz^
 ||cccmall.top^
 ||ccgreatmart.com^
+||celaure.com^
 ||celerra-praha.com^
 central2013.eu/keto-diet/
 ||centralniregistrdluzniku.cz^
@@ -291,7 +297,9 @@ dailygizmoshop.com/black-curtain-cz
 ||diapromin-cz.peoplestorry.com^
 ||difmark.com^
 ||dilnaauto.com^
+||dionmotl.shop^
 ||discountsales.2023factory.ru^
+||diskretnisexshop.cz^
 ||disposaa.shop^
 ||doctorlights.com^
 ||doktoratonline.cz^
@@ -343,6 +351,7 @@ eusales.shop/products/therapeutic-device
 ||evehaojk.com^
 ||eveltas.cz^
 ||everlastcz.com^
+||evique.shop^
 ||evropa-pelety.com^
 ||evropa-pelety.eu^
 ||ewoman.cz^
@@ -426,6 +435,7 @@ health-spa-award.com/czp1/
 ||heiduk.cz^
 ||hello-deals.com^
 ||hiousserp.monster^
+||hitechsaver.com^
 ||hobby-eshop.cz^
 ||hodinekrepliky.cz^
 ||hoka-boty.cz^
@@ -476,6 +486,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||jk.axayy.club^
 ||jlgdr.shop^
 ||jncojeans.cz^
+||jrjjsjfsf.shop^
 ||jshfluy.lol^
 ||jt-webcreation.com^
 ||julee.store^
@@ -537,8 +548,10 @@ klinikaliberec.cz/lekarna
 ||kupi-cz.com^
 ||lada-praha.cz^
 ||largemarket.vip^
+||larinapraha.cz^
 ||lashorly.cz^
 ||lasportivacz.cz^
+||lasportivas.cz^
 laureshop.eu/cs
 ||laviquemoda.com^
 ||laviquepraha.com^
@@ -586,6 +599,7 @@ lovecrazi.top/detail?id=dc007465-c161-4f19-a977-e7dea88e3101&path=ak_5606xtu376_
 ||lrui.store^
 ||lrvvzglc.bestwellbeings.com^
 ||lsplfwoz.newfitosources.com^
+||luciemariebrno.com^
 ||luckbg.com^
 luckysaleonline.com/page/4fd24b34549fb15308ecfa18a6dad68fe7ac6035/
 ||luevana.com^
@@ -663,11 +677,13 @@ muama-enence.net/enence/cz/001d1w/index.html
 ||mvqwlk.com^
 mycpagettipotok2.com/tlwt/l/
 ||myfurtag.cz^
+||myneedoh.cz^
 mynutraresearch.com/new-detonic-cz-1/
 ||nabytekcz.com^
 ||nagimi.com^
 ||naleapraha.com^
 ||naradidily.com^
+||naradipro.com^
 ||narodnidenik.com^
 ||nastrojepro.com^
 ||nastrojeshop.com^
@@ -866,6 +882,7 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||rosella-fashion.com^
 ||rotovaurvananoha.com^
 ||rotto-garage.com^
+||rtmeuropa.com^
 ||rubbertpx.com^
 ||rueporter.com^
 ||rufico-czech.com^
@@ -972,6 +989,7 @@ suggesthome.com/imboys/imboys-hoodie-fear-not-black
 superbinvest.com/leos-mares-investuje-15-milionu-eur-do-startupu-a-rika-ze-zde-se-nachazi-budoucnost/
 ||superbriket.cz^
 ||supershoppingvip.com^
+||supertore.com^
 ||suukne.shop^
 ||svetnastroju.com^
 ||svoboda-moda.cz^
@@ -1142,6 +1160,7 @@ youreduspace.com/420/lingfluent-med/
 yourmarket24.com/420/nutresin-med/gps/
 yousteround.com/cs-cz
 ||yummy-yump.com^
+||yuzlsa.com^
 ||zahradadily.com^
 ||zahradnikem-nedopatrenim.cz^
 ||zakozpc.com^
@@ -1149,6 +1168,7 @@ yousteround.com/cs-cz
 ||zaraeshop.cz^
 ||zareefashion.com^
 ||zaria-brno.com^
+||zarusova.com^
 ||zasilkonos.cz^
 ||zdraviodslovanu.online^
 ||zibdo.top^
@@ -1171,4 +1191,5 @@ yousteround.com/cs-cz
 ||zv-go.tk^
 ||zvetsovaci-bryle-cz.com^
 ||zvirecinadeje.com^
+||zvuknastroj.com^
 ||zvvciie.shop^
