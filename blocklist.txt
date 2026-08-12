@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 11.08.2026 00:52
-# POČET POLOŽEK: 1186
+# AKTUALIZOVÁNO: 12.08.2026 00:58
+# POČET POLOŽEK: 1185
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -1113,7 +1113,6 @@ uspesnirodice.com/store
 ||vjehlici.cz^
 ||vlasta-praha.cz^
 ||vltavacouture.com^
-||vohulto.com^
 ||voritashop.com^
 ||vova.com^
 ||vpftrm.com^
