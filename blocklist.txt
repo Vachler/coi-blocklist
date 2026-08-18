@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 17.08.2026 00:34
-# POČET POLOŽEK: 1185
+# AKTUALIZOVÁNO: 18.08.2026 00:34
+# POČET POLOŽEK: 1199
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -264,6 +264,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||czech.hondrocream.shop^
 ||czech.shoppingnexa.com^
 ||czechchildren.eu^
+||czechsecond-handmall.shop^
 ||czechsiksilk.com^
 ||czechstores.top^
 ||czfung.ru^
@@ -282,6 +283,7 @@ dailygizmoshop.com/black-curtain-cz
 ||darinapraha.cz^
 ||dashingsoul.com^
 ||datalistshop.com^
+||dc-shoes.cz^
 ||dcczech.com^
 ||ddcd8.shop^
 ||ddsad.shop^
@@ -342,6 +344,7 @@ ducon.space/cs
 ||eu-notino.shop^
 ||eu.realnews.life^
 ||eur.shein.com^
+||eurobazaars.com^
 euroboxy.cz/akce/
 ||europebitcoinlab.com^
 eusales.shop/products/therapeutic-device
@@ -390,6 +393,7 @@ fikldas-invest.pro/
 ||garmins.cz^
 ||garni.online^
 ||gbrjah.store^
+||gdxcnt.shop^
 ||geco-store-cz.com^
 ||geko-store.com^
 ||gemgolden.com^
@@ -434,8 +438,10 @@ health-news-2021.com/ketoz-cz-vy/
 health-spa-award.com/czp1/
 ||heiduk.cz^
 ||hello-deals.com^
+||hgdfcb.shop^
 ||hiousserp.monster^
 ||hitechsaver.com^
+||hlubokamysl.cz^
 ||hobby-eshop.cz^
 ||hodinekrepliky.cz^
 ||hoka-boty.cz^
@@ -484,6 +490,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||jeesku.com^
 ||jirinapavel.cz^
 ||jk.axayy.club^
+||jk.nfurom.shop^
 ||jlgdr.shop^
 ||jncojeans.cz^
 ||jrjjsjfsf.shop^
@@ -527,6 +534,7 @@ klinikaliberec.cz/lekarna
 ||kodykuponu.com^
 ||koifootwear.cz^
 ||kolimnc.com^
+||kolodily.com^
 ||kopakick.com^
 ||korvanis.com^
 ||kosile.shop^
@@ -546,6 +554,7 @@ klinikaliberec.cz/lekarna
 ||kuorest.com^
 ||kup.amol.cz^
 ||kupi-cz.com^
+||kutilcz.com^
 ||lada-praha.cz^
 ||largemarket.vip^
 ||larinapraha.cz^
@@ -555,6 +564,7 @@ klinikaliberec.cz/lekarna
 laureshop.eu/cs
 ||laviquemoda.com^
 ||laviquepraha.com^
+||le-labo.cz^
 ||leathermaneu-tool.com^
 ||leffinata-cz.com^
 ||legeroeshop.com^
@@ -584,6 +594,7 @@ lingfluent.com/cs/
 ||lnceglae.monster^
 ||lnkuefeo.newherbalfito.com^
 ||lnvxnxso.sourcesphyto.com^
+||lodni-dily.com^
 loftyteam.com/normalife_cr/
 ||longchampczeshop.cz^
 ||longchampkabelka.cz^
@@ -608,6 +619,7 @@ luckysaleonline.com/page/4fd24b34549fb15308ecfa18a6dad68fe7ac6035/
 ||lukasbarbora-brno.com^
 lulu12.online/slt651h0q800
 ||luluvibee.com^
+||luma-prague.com^
 ||lunapraha.cz^
 ||lushivack.shop^
 ||luzyna.cz^
@@ -690,6 +702,7 @@ mynutraresearch.com/new-detonic-cz-1/
 naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||nbcz.cz^
 ||neatrichit.com^
+||nelasofie.com^
 ||nelinkaresell.com^
 ||neloraa.com^
 ||nemcovapraha.cz^
@@ -888,6 +901,7 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||rufico-czech.com^
 ||rutrostore.com^
 ||rwblvtfc.com^
+||rybarskadilna.com^
 ||sageeshop.cz^
 ||sale-big.live^
 ||sale.dopesnower.com^
