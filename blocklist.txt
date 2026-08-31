@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 30.08.2026 02:13
-# POČET POLOŽEK: 1199
+# AKTUALIZOVÁNO: 31.08.2026 02:08
+# POČET POLOŽEK: 1214
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -58,6 +58,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||anekkecz.eu^
 ||anezka-brno.cz^
 ||annafieldcz.cz^
+||annakarlovy.cz^
 ||ansformationtra.com^
 ||antikwariat.cz^
 ||antoniepraha.cz^
@@ -102,6 +103,7 @@ archive.ulaanbaatar.mn/curl/m4/
 ||benuker.tech^
 ||bestbrandsczech.com^
 ||bestbtcoffers.com^
+||bestlibrary.blog^
 besttovarsale.com/page/605cf8f3cfe5036e41bbe16a244f9cde0cd91ba0/
 ||bgznyxlbkgp.digital^
 ||bifcaa.vip^
@@ -264,6 +266,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||czech.hondrocream.shop^
 ||czech.shoppingnexa.com^
 ||czechchildren.eu^
+||czechfafatop.shop^
 ||czechsecond-handmall.shop^
 ||czechsiksilk.com^
 ||czechstores.top^
@@ -280,6 +283,7 @@ dailygizmoshop.com/black-curtain-cz
 ||damecbd.eu^
 ||damevyzvu.cz^
 ||dana-praha.cz^
+||danielmazl.cz^
 ||darinapraha.cz^
 ||dashingsoul.com^
 ||datalistshop.com^
@@ -371,6 +375,7 @@ fikldas-invest.pro/
 ||filacz.cz^
 ||fitcelenka.myshopify.com^
 ||fivora.cz^
+||fixrgear.com^
 ||fixwalks.com^
 ||flintpraha.cz^
 ||floridic.com^
@@ -527,6 +532,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||kklsmm.com^
 ||klarapraha.com^
 ||klenotymarie.cz^
+||kliknisop.com^
 klinikaliberec.cz/lekarna
 ||kmd-pelety.com^
 ||knihokapsa.shop^
@@ -630,6 +636,7 @@ lzztcbuj.bestremedyforpeople.com/
 ||maisonpraha.cz^
 ||makipro.store^
 ||makiprocz.store^
+||makitas.cz^
 ||mala-praha.com^
 ||mallinna.cz^
 ||mallinna.it^
@@ -679,12 +686,14 @@ milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||modovaprague.com^
 ||momohdesign.com^
 ||monika-praha.cz^
+||montvexa.com^
 ||moravecbrno.com^
 ||motorwarenhuis.de^
 ||mraky-kostek.cz^
 ||mriiry.shop^
 muama-enence.net/enence/cz/001d1w/index.html
 ||mujbajer.cz^
+||murelia.sk^
 ||muzikashop.com^
 ||mvqwlk.com^
 mycpagettipotok2.com/tlwt/l/
@@ -708,6 +717,7 @@ naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||nemcovapraha.cz^
 ||neocard-cz.lillyblock.com^
 ||nerrxs.shop^
+||neurohra.com^
 nevergiveupyourmind.com/420/ayurreadpro-med-m-genius/gps/
 ||newadvanceremedy.com^
 ||newrocks.cz^
@@ -806,6 +816,7 @@ patchoz.com/cz
 ||pdrevo-mrackova.com^
 ||pelety-a-drevo.com^
 ||pelety-brikety.eu^
+||peletyplus.com^
 ||pepejeanseshopcz.cz^
 ||perla-brno.cz^
 ||perlapraha.com^
@@ -845,6 +856,7 @@ praiseglories.info/12-zpusobu-jak-vytvorit-a-take-rozvijet-profesionalni-schopno
 ||primechnnls.com^
 ||primediscount24.com^
 ||procuratte.com^
+||prodejnabytek.com^
 ||profit-farma.com^
 ||progettidivini.cz^
 ||pronlineoffertstore.com^
@@ -854,6 +866,7 @@ praiseglories.info/12-zpusobu-jak-vytvorit-a-take-rozvijet-profesionalni-schopno
 ||pumaslovensko.sk^
 ||puradone.com^
 ||purivia.cz^
+||pxqivo.com^
 ||pxunhcz.com^
 ||pyrozeus.com^
 ||qeecra.com^
@@ -1005,6 +1018,7 @@ superbinvest.com/leos-mares-investuje-15-milionu-eur-do-startupu-a-rika-ze-zde-s
 ||supershoppingvip.com^
 ||supertore.com^
 ||suukne.shop^
+||svetbublinek.cz^
 ||svetnastroju.com^
 ||svoboda-moda.cz^
 ||svoboda-praha.cz^
@@ -1055,6 +1069,7 @@ thecivicpost.com/powersaver-cz?sub2=mkztqbk3ngddv7jj59wifmftmv
 ||tpicashop.com^
 ||trapstar.cz^
 ||trapstarczeshop.cz^
+||trevonia.com^
 ||trhbns.shop^
 ||tricatasesta.bigcartel.com^
 ||trinlk.com^
