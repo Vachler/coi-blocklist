@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 09.09.2026 01:59
-# POČET POLOŽEK: 1214
+# AKTUALIZOVÁNO: 10.09.2026 01:56
+# POČET POLOŽEK: 1248
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -16,6 +16,7 @@
 ||3fazova-ostricka-cz.com^
 ||3shanyang.shop^
 ||4camclearancesale.com^
+||4homescz.homes^
 ||7bess.com^
 ||a-cz-bright-skin.natural-sales.com^
 ||aanhydrousx.lol^
@@ -100,6 +101,7 @@ archive.ulaanbaatar.mn/curl/m4/
 ||belleef.com^
 ||benes-moda.cz^
 ||benes-praha.com^
+benudaily.com/products
 ||benuker.tech^
 ||bestbrandsczech.com^
 ||bestbtcoffers.com^
@@ -116,9 +118,11 @@ besttovarsale.com/page/605cf8f3cfe5036e41bbe16a244f9cde0cd91ba0/
 ||biziboiz.com^
 ||blaha-moda.cz^
 ||blakeandcarter.com^
+||blankapraha.com^
 ||blockchain.com^
 ||bluejadefinds.com^
 ||bohemiafix.com^
+||bohemtools.com^
 ||boilingsmart.com^
 ||booho.sk^
 ||bookevenement.com^
@@ -256,6 +260,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||cz3.landntrv.com^
 ||cz3130.herhmpa.shop^
 ||cz4.ketodietnd.com^
+||cz4home.club^
 ||czalpinepro.shop^
 ||czautodily.com^
 ||cze.dwczd.top^
@@ -319,9 +324,11 @@ dailygizmoshop.com/black-curtain-cz
 ||drmartenscs.myshoplaza.com^
 ||drmartenscz.cz^
 ||drmartensczshops.cz^
+||dubravicky.com^
 ducon.space/cs
 ||dukex.live^
 ||dvdfunny.top^
+||easyvapestore.com^
 ||ecstaticera.com^
 ||edhardy-cz.cz^
 ||egyptkosmetika.cz^
@@ -333,6 +340,7 @@ ducon.space/cs
 ||eliskaprahastore.com^
 ||ellorapraha.cz^
 ||elyviane-praha.cz^
+||ema-praha.cz^
 ||emetaphysical.monster^
 ||emiliepraha.com^
 ||emnot.cz^
@@ -387,6 +395,7 @@ fikldas-invest.pro/
 ||fotbalovemall.com^
 ||fotbalshop.com^
 ||fotosperky.com^
+||fotrovybarvy.com^
 ||fredie.cz^
 ||fundaja.shop^
 ||funko-pop.cz^
@@ -492,6 +501,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||janattwell.com^
 ||janvera.cz^
 ||jareys.com^
+||jblczech.cz^
 ||jeesku.com^
 ||jirinapavel.cz^
 ||jk.axayy.club^
@@ -507,6 +517,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||kalapsonia.cz^
 ||kalinapraga.com^
 ||kalinapraha.cz^
+||kalmeraselect.shop^
 ||kamagraobchod.com^
 ||kamagrashop.sk^
 ||kantostarter.eu^
@@ -556,6 +567,7 @@ klinikaliberec.cz/lekarna
 ||kristynapraha.cz^
 ||kspaceproject.com^
 ||kuchynemikulov.com^
+||kuchyneprofi.com^
 ||kulickovy-pojezd.cz^
 ||kuorest.com^
 ||kup.amol.cz^
@@ -586,6 +598,7 @@ laureshop.eu/cs
 levasan-maxx2.com/cz/
 ||levneairpody.cz^
 ||levnydopamin.cz^
+||levoitcz.cz^
 ||liagautier.cz^
 ||libuse-praha.cz^
 lidbeat.space/cmgk/
@@ -606,6 +619,7 @@ loftyteam.com/normalife_cr/
 ||longchampkabelka.cz^
 ||loopearplugs.cz^
 ||loopearplugscz.cz^
+||lorlana.com^
 ||louboutinboty.cz^
 lovecrazi.top/detail?id=dc007465-c161-4f19-a977-e7dea88e3101&path=ak_5606xtu376_y
 ||loveeds.com^
@@ -618,6 +632,7 @@ lovecrazi.top/detail?id=dc007465-c161-4f19-a977-e7dea88e3101&path=ak_5606xtu376_
 ||lsplfwoz.newfitosources.com^
 ||luciemariebrno.com^
 ||luckbg.com^
+lucksl.com/cs-cz
 luckysaleonline.com/page/4fd24b34549fb15308ecfa18a6dad68fe7ac6035/
 ||luevana.com^
 ||lufnpbht.fitoremedyheres.com^
@@ -631,6 +646,7 @@ lulu12.online/slt651h0q800
 ||luzyna.cz^
 ||lywepwfi.newinfozdrav.com^
 lzztcbuj.bestremedyforpeople.com/
+||madamepraha.com^
 ||magdalena-praha.cz^
 ||maisonlys-cz.com^
 ||maisonpraha.cz^
@@ -640,10 +656,13 @@ lzztcbuj.bestremedyforpeople.com/
 ||mala-praha.com^
 ||mallinna.cz^
 ||mallinna.it^
+||malygenius.click^
 ||marekmoda.cz^
 ||margginkcorcite.tk^
 ||marie-moda.cz^
+||marie-praha.com^
 ||marieajosefklenotnictvi.com^
+||marimex.shop^
 ||marklv.cz^
 ||martenscz.com^
 ||martina-praha.cz^
@@ -664,6 +683,7 @@ mercatoincasa.com/fast-mower-isla-cze/#ordernow
 ||meyitow.com^
 ||michaelkorscz.cz^
 ||microbiologybytes.com^
+||microscootercz.com^
 ||mikrocz.cz^
 ||milapraha.cz^
 milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
@@ -688,6 +708,7 @@ milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||monika-praha.cz^
 ||montvexa.com^
 ||moravecbrno.com^
+||motordia.com^
 ||motorwarenhuis.de^
 ||mraky-kostek.cz^
 ||mriiry.shop^
@@ -705,12 +726,14 @@ mynutraresearch.com/new-detonic-cz-1/
 ||naleapraha.com^
 ||naradidily.com^
 ||naradipro.com^
+||naradpro.com^
 ||narodnidenik.com^
 ||nastrojepro.com^
 ||nastrojeshop.com^
 naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||nbcz.cz^
 ||neatrichit.com^
+||nebbia-cz.shop^
 ||nelasofie.com^
 ||nelinkaresell.com^
 ||neloraa.com^
@@ -794,6 +817,7 @@ ortodoncie-hradeckralove.cz/obchod
 ||osiris-cz.cz^
 ||osiriscz.cz^
 ||ospokya.com^
+||ospreys.cz^
 ||otranquilityw.lol^
 ||outlet-cz.shop^
 ||outlet-prag.com^
@@ -849,9 +873,11 @@ poliklinikakolbenova.cz/lekarna/
 ||praha-couture.com^
 ||prahaatelier.cz^
 ||prahakrasa.com^
+||prahamoda.cz^
 ||prahanora.com^
 praiseglories.info/12-zpusobu-jak-vytvorit-a-take-rozvijet-profesionalni-schopnosti-mimo-praci.php
 ||prenblog.com^
+||prestigeacy.com^
 ||primarkpraha.com^
 ||primechnnls.com^
 ||primediscount24.com^
@@ -866,6 +892,7 @@ praiseglories.info/12-zpusobu-jak-vytvorit-a-take-rozvijet-profesionalni-schopno
 ||pumaslovensko.sk^
 ||puradone.com^
 ||purivia.cz^
+||pvvfxbfm.com^
 ||pxqivo.com^
 ||pxunhcz.com^
 ||pyrozeus.com^
@@ -902,6 +929,7 @@ rickerfriends.org/kingstown-zaluje-vitkovu-cpi-kvuli-udajnym-pomluvam-v-mediich/
 ||riekerobuveshop.sk^
 ||rivio.cz^
 ||robeee.shop^
+||roborocks.cz^
 ||rodinnepoklady.com^
 ||roikonggaodian.com^
 rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&utm_content=120233837815880246&utm_term=120233837815930246&utm_campaign=120233837815840246&fbclid=iwy2xjawm13allehrua2flbqewagfkawqbqygj-ghejgee60f9dh8pzmnypr9rlzmraowxxmmxozxgraachtxlomppaljw4atjuc21ub0_aem_yfw5r-4dfnlfx7eljr-uoa
@@ -995,6 +1023,7 @@ spagetlink.com/ttej/l/
 ||spinix.cz^
 ||sqnlin07.shop^
 ||sroilb.monster^
+||stabiflex.pl^
 ||stanleycup.cz^
 ||starsneakers.eu^
 ||stavexpro.com^
@@ -1022,6 +1051,7 @@ superbinvest.com/leos-mares-investuje-15-milionu-eur-do-startupu-a-rika-ze-zde-s
 ||svetnastroju.com^
 ||svoboda-moda.cz^
 ||svoboda-praha.cz^
+||swarovski-outlet.cz^
 ||sweorou.com^
 ||swiftdeal.club^
 ||swinimi.com^
@@ -1035,12 +1065,14 @@ superbinvest.com/leos-mares-investuje-15-milionu-eur-do-startupu-a-rika-ze-zde-s
 ||tatonkacz.com^
 ||tazwmzvy.newhealthcarenow.com^
 techdigital.live/blog.php?post=8xly02h9cp6kzm8kvid7&px=aw-11377437226/f4wzcpvul_uyekrul7eq%27&wd=prettyintelligent.live&keyword=investice&gclid=cjwkcaiag9urbhb_eiwagw88mb2zpvwo7iidfdk5k9xze0kb8rybnwnjsemnbxvcvuweum56umrpohoceaeqavd_bwe
+||tek-drevo.cz^
 ||tempotime.cz^
 ||teniskyhokaoneone.sk^
 ||tereza-praha.cz^
 ||tevabratislava.com^
 ||teveoeshop.cz^
 ||teveostore.cz^
+||textovixa.com^
 tg-lead.space/l1/kanabialica/m6/
 ||theantilife.com^
 ||thebox-cz.com^
@@ -1113,6 +1145,7 @@ uspesnirodice.com/store
 ||vans-cz.cz^
 ||varietystore.club^
 ||varietystore.vip^
+||vasky.club^
 ||vbdwrn.shop^
 ||vbnapce.shop^
 ||vcmmsai.com^
@@ -1123,6 +1156,7 @@ uspesnirodice.com/store
 ||venumcz.cz^
 ||venusstore.shop^
 ||verapraha.com^
+||verapraha.cz^
 ||veronika-butik.com^
 ||vessieshop.cz^
 ||veteranspridelandscaping.com^
