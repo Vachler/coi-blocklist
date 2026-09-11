@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 10.09.2026 01:56
-# POČET POLOŽEK: 1248
+# AKTUALIZOVÁNO: 11.09.2026 01:54
+# POČET POLOŽEK: 1249
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -154,6 +154,7 @@ buy.layoners.com/cz/slunecni-bryle-racer/
 ||canyonhugesavings.com^
 ||cardinalon.shop^
 ||carharopa.shop^
+||carhartts.cz^
 ||casioslovensko.sk^
 ||caterpillarboty.cz^
 ||caterpillarstore.cz^
@@ -404,6 +405,7 @@ fikldas-invest.pro/
 ||gaemskb.club^
 ||gamey.cz^
 ||gamsgo.com^
+||gardevia.com^
 ||garmins.cz^
 ||garni.online^
 ||gbrjah.store^
@@ -734,7 +736,6 @@ naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||nbcz.cz^
 ||neatrichit.com^
 ||nebbia-cz.shop^
-||nelasofie.com^
 ||nelinkaresell.com^
 ||neloraa.com^
 ||nemcovapraha.cz^
