@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 21.09.2026 02:11
-# POČET POLOŽEK: 1249
+# AKTUALIZOVÁNO: 22.09.2026 02:16
+# POČET POLOŽEK: 1271
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -60,6 +60,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||anezka-brno.cz^
 ||annafieldcz.cz^
 ||annakarlovy.cz^
+||annazlatnictvi.cz^
 ||ansformationtra.com^
 ||antikwariat.cz^
 ||antoniepraha.cz^
@@ -126,6 +127,7 @@ besttovarsale.com/page/605cf8f3cfe5036e41bbe16a244f9cde0cd91ba0/
 ||boilingsmart.com^
 ||booho.sk^
 ||bookevenement.com^
+||boty-keen.cz^
 ||boty-nobull-cz.cz^
 ||botyaltralonepeak.com^
 ||botycaterpillar.cz^
@@ -305,6 +307,7 @@ dailygizmoshop.com/black-curtain-cz
 ||dessove.shop^
 ||detnnd.shop^
 ||deuters.cz^
+||devorie.com^
 ||dfyne.cz^
 ||diapromin-cz.peoplestorry.com^
 ||difmark.com^
@@ -376,6 +379,7 @@ eyewear4you.cz/wps/zvyazk/lupa.php
 ||fafasecond-hand888.shop^
 ||fantar.shop^
 ||fashionfashion.cz^
+||faunio.cz^
 ||faymoon.com^
 ||fcoklskodd.top^
 ||fcshoppingmall.shop^
@@ -432,6 +436,7 @@ gmtpcy.com/ke-svym-109-narozeninam-czech/
 ||goteoffer.com^
 ||grafis-studio.cz^
 ||greecove.com^
+||gripmetalk.com^
 ||groershop.com^
 ||groundies-boty.cz^
 ||guardys.cz^
@@ -465,6 +470,7 @@ health-spa-award.com/czp1/
 ||hokacz.cz^
 ||hokaoneoneshop.cz^
 ||hokejovedresy.com^
+||homecz.shop^
 ||homefyrt.com^
 ||homegaden.com^
 ||hoodrichcz.cz^
@@ -481,6 +487,7 @@ hot-shopping-review.com/420/prolesanpure-med-m/gps/
 ||hvssdsv.shop^
 ||hxhjk.myshopify.com^
 ||hydroflasktermoska.cz^
+||hyfud.shop^
 ||hypermarketcz.shop^
 ||icebug-eshop.cz^
 ||independentlife.shop^
@@ -510,6 +517,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||jk.nfurom.shop^
 ||jlgdr.shop^
 ||jncojeans.cz^
+||jonapboty.com^
 ||jrjjsjfsf.shop^
 ||jshfluy.lol^
 ||jt-webcreation.com^
@@ -550,6 +558,7 @@ klinikaliberec.cz/lekarna
 ||kmd-pelety.com^
 ||knihokapsa.shop^
 ||kobiecamoda.shop^
+||kocicisrdce.eu^
 ||kodykuponu.com^
 ||koifootwear.cz^
 ||kolimnc.com^
@@ -619,6 +628,7 @@ lingfluent.com/cs/
 loftyteam.com/normalife_cr/
 ||longchampczeshop.cz^
 ||longchampkabelka.cz^
+||lonsdaleobleceni-cz.com^
 ||loopearplugs.cz^
 ||loopearplugscz.cz^
 ||lorlana.com^
@@ -632,6 +642,7 @@ lovecrazi.top/detail?id=dc007465-c161-4f19-a977-e7dea88e3101&path=ak_5606xtu376_
 ||lrui.store^
 ||lrvvzglc.bestwellbeings.com^
 ||lsplfwoz.newfitosources.com^
+||luciebrno.cz^
 ||luciemariebrno.com^
 ||luckbg.com^
 lucksl.com/cs-cz
@@ -671,6 +682,7 @@ lzztcbuj.bestremedyforpeople.com/
 ||martinaveronika.cz^
 ||masazekouzlodotekupraha.cz^
 ||matchuji.cz^
+||matstavba.com^
 ||mazlickof.cz^
 ||mc-go.ml^
 ||med-care24.com^
@@ -780,6 +792,7 @@ nirt.co.uk/cs/artroser/
 ||nuio.store^
 ||nutrisuper.cz^
 ||nuubu.com^
+||nuvora.cz^
 ||nvgtn.cz^
 ||nvow.shop^
 oaaxltot.com/products/meoml
@@ -900,6 +913,7 @@ praiseglories.info/12-zpusobu-jak-vytvorit-a-take-rozvijet-profesionalni-schopno
 ||qeecra.com^
 qsggh.com/ccrywyc
 ||querid.top^
+||quibikex.com^
 ||rabat8.shop^
 ||rabbunda.cz^
 ||radical-wear.cz^
@@ -911,6 +925,7 @@ qsggh.com/ccrywyc
 ||rcvih8dx.shop^
 ||rdbcjf.store^
 ||readivanta.com^
+||rebornpanenky.cz^
 ||recenzeexpertu.cz^
 recenzetop.cz/artroser/
 ||redmi-czk.com^
@@ -955,10 +970,12 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||sanitainstal.com^
 ||sanukeshop.cz^
 ||saoppon.com^
+||sarka-plazen.cz^
 ||satansdesign.com^
 ||satinlodge.com^
 ||saucony-slovensko.sk^
 ||scratch-removercz.com^
+||scriptmora.com^
 ||scuffers.cz^
 ||scuffersczechrepublic.cz^
 ||securesmrt-dt.com^
@@ -979,6 +996,7 @@ shop.bymbymp.shop/jgibf9ft
 ||shopcvrea.com^
 ||shopcz.cc^
 ||shopfasts.shop^
+||shopmytime.com^
 shopoonline4.com/tkfb/l/
 ||shoppyoffer.com^
 ||shoprosea.cz^
@@ -990,6 +1008,7 @@ sidushe.com/d.php?product_id=cljjpmf&amp;pp=0&amp;epik=dj0yjnu9os1wsgh6ejjjbu43o
 ||sikstylpraha.cz^
 ||simaginaryoir.shop^
 ||simek-praha.com^
+||simonaostrava.com^
 ||simonapraha.cz^
 ||simonasperky.cz^
 ||simplepepper.top^
@@ -1147,6 +1166,7 @@ uspesnirodice.com/store
 ||varietystore.club^
 ||varietystore.vip^
 ||vasky.club^
+||vaskystore.shop^
 ||vbdwrn.shop^
 ||vbnapce.shop^
 ||vcmmsai.com^
@@ -1159,6 +1179,7 @@ uspesnirodice.com/store
 ||verapraha.com^
 ||verapraha.cz^
 ||veronika-butik.com^
+||veronikaklenoty.cz^
 ||vessieshop.cz^
 ||veteranspridelandscaping.com^
 ||vexhike.com^
@@ -1226,6 +1247,7 @@ yousteround.com/cs-cz
 ||yuzlsa.com^
 ||zahradadily.com^
 ||zahradnikem-nedopatrenim.cz^
+||zahradninaradi.com^
 ||zakozpc.com^
 ||zaploss.com^
 ||zaraeshop.cz^
