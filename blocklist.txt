@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 14.10.2026 02:33
-# POČET POLOŽEK: 1298
+# AKTUALIZOVÁNO: 15.10.2026 02:13
+# POČET POLOŽEK: 1299
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -192,6 +192,7 @@ centrumnavyku.cz/obchod
 ||citymall.club^
 ||clara-praha.cz^
 ||clarella.cz^
+||clarkscz.cz^
 ||cleanseller.com^
 ||click.europebestshop.com^
 ||clogscz.com^
