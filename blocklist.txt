@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 10.11.2026 05:03
-# POČET POLOŽEK: 1324
+# AKTUALIZOVÁNO: 11.11.2026 03:37
+# POČET POLOŽEK: 1352
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -57,6 +57,7 @@ adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e
 ||altrarunnerscz.com^
 ||altrarunningcz.cz^
 ||ameliapraha.com^
+||ameliapraha.cz^
 ||amilara.com^
 ||anekkecz.eu^
 ||anekkeczshop.top^
@@ -103,6 +104,7 @@ archive.ulaanbaatar.mn/curl/m4/
 ||bathstr.shop^
 ||bdric34.world^
 ||be-terralis.com^
+||beanhub.shop^
 ||bedernioperkacz.com^
 ||beistravel.cz^
 ||bellcasual.com^
@@ -192,6 +194,7 @@ centrumnavyku.cz/obchod
 ||chytrynaramek-cz.com^
 ||cicibansale.club^
 ||cisteucho.cz^
+||cisticisvet.com^
 ||citymall.club^
 ||clara-praha.cz^
 ||clarella.cz^
@@ -220,6 +223,7 @@ crypsome.click/ffmyv1?click_id=6422c6236ebed20001208132&pid=2&sub3=2072442686133
 ||cryptoeddu.com^
 ||crystalli.cz^
 ||currentbody-cz.cz^
+||cyklodily.com^
 ||cyklovela.com^
 ||cyleva.com^
 ||cyun.sanni.store^
@@ -285,6 +289,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||czech.e-energy-official.com^
 ||czech.hondrocream.shop^
 ||czech.shoppingnexa.com^
+||czechautodily.com^
 ||czechchildren.eu^
 ||czechfafatop.shop^
 ||czechsecond-handmall.shop^
@@ -401,6 +406,7 @@ eyewear4you.cz/wps/zvyazk/lupa.php
 ||fafasecond-hand888.shop^
 ||fantar.shop^
 ||fashionfashion.cz^
+||fashoes.top^
 ||faunio.cz^
 ||faymoon.com^
 ||fcoklskodd.top^
@@ -537,6 +543,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||jareys.com^
 ||jblczech.cz^
 ||jeesku.com^
+||jezdeckepotreby.com^
 ||jirinapavel.cz^
 ||jk.axayy.club^
 ||jk.nfurom.shop^
@@ -716,6 +723,7 @@ lzztcbuj.bestremedyforpeople.com/
 ||masazekouzlodotekupraha.cz^
 ||matchuji.cz^
 ||matejovsky.shop^
+||matejovskystore.shop^
 ||matstavba.com^
 ||mazlickof.cz^
 ||mc-go.ml^
@@ -726,6 +734,8 @@ lzztcbuj.bestremedyforpeople.com/
 ||megaslevy.com^
 ||meindlcz.cz^
 ||meiougo.com^
+||mellowzen.net^
+||mencore.cz^
 mercatoincasa.com/fast-mower-isla-cze/#ordernow
 ||merrelleshop.cz^
 ||meyitow.com^
@@ -742,6 +752,7 @@ milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||mira-butik.com^
 mistrkutil.com/cs-cz
 ||mixmoa.com^
+||mkluzkomarkets.shop^
 ||mkluzkovinybed.homes^
 ||mktoutlet.store^
 ||mktoutletcz.store^
@@ -760,9 +771,11 @@ mistrkutil.com/cs-cz
 ||montvexa.com^
 ||moravecbrno.com^
 ||motordia.com^
+||motorovedilypraha.com^
 ||motorwarenhuis.de^
 ||mraky-kostek.cz^
 ||mriiry.shop^
+||mrkaj.me^
 muama-enence.net/enence/cz/001d1w/index.html
 ||mujbajer.cz^
 ||murelia.sk^
@@ -825,6 +838,7 @@ nirt.co.uk/cs/artroser/
 ||novazakazka.eu^
 ||nsabiu.myshoplaza.com^
 ||nsonmalper.com^
+||ntcefl.shop^
 ||nuanzunk.shop^
 ||nuio.store^
 ||nutrisuper.cz^
@@ -872,6 +886,7 @@ ortodoncie-hradeckralove.cz/obchod
 ||otranquilityw.lol^
 ||outlet-cz.shop^
 ||outlet-prag.com^
+||ovocnazahrada.com^
 ||owalacz.com^
 ||owalacz.cz^
 ||paketstorch.cz^
@@ -914,6 +929,7 @@ poliklinikakolbenova.cz/lekarna/
 ||polosralphlauren.cz^
 ||pompocz.club^
 ||pompoczsale.club^
+||pop-mart.cz^
 ||poplatky-zpet.cz^
 ||posledniplan.cz^
 ||potah-zidle.cz^
@@ -934,6 +950,7 @@ praiseglories.info/12-zpusobu-jak-vytvorit-a-take-rozvijet-profesionalni-schopno
 ||primarkpraha.com^
 ||primechnnls.com^
 ||primediscount24.com^
+||prislusenstviatu.com^
 ||procuratte.com^
 ||prodejnabytek.com^
 ||profit-farma.com^
@@ -1003,6 +1020,7 @@ rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&u
 ||rwblvtfc.com^
 ||rybarskadilna.com^
 ||sageeshop.cz^
+||saguaros.cz^
 ||sale-big.live^
 ||sale.dopesnower.com^
 ||sale.montece.com^
@@ -1079,6 +1097,7 @@ sjuy.store/
 ||solarniledlampa-cz.com^
 ||solovaircz.top^
 ||sorelpraha.net^
+||sorrelcorner.com^
 ||sotiti.com^
 ||soundcores.cz^
 ||soveracz.com^
@@ -1087,14 +1106,17 @@ spagetlink.com/ttej/l/
 ||sperkyvalentova.com^
 ||spinix.cz^
 ||sqnlin07.shop^
+||squishme.cz^
 ||sroilb.monster^
 ||stabiflex.pl^
 ||stainiro.com^
 ||stanleycup.cz^
 ||starsneakers.eu^
 ||stavexpro.com^
+||stavmart.com^
 ||store.providerp.eu^
 ||storecze.com^
+||strojdily.com^
 stronginfo24.com/420/formelan-med-m/gps/
 ||studuju.com^
 ||studuju.online^
@@ -1136,6 +1158,7 @@ techdigital.live/blog.php?post=8xly02h9cp6kzm8kvid7&px=aw-11377437226/f4wzcpvul_
 ||tempotime.cz^
 ||teniskyhokaoneone.sk^
 ||tereza-praha.cz^
+||terezablazkova.com^
 ||tevabratislava.com^
 ||teveoeshop.cz^
 ||teveostore.cz^
@@ -1209,6 +1232,7 @@ urotrin1cz.doctordays.com/l
 uspesnirodice.com/store
 ||uterezy.cz^
 ||utopiadigitalstore.com^
+||uzi.la^
 ||vacanez.com^
 ||valeroil.shop^
 ||valitoshop.com^
@@ -1223,6 +1247,7 @@ uspesnirodice.com/store
 ||vejaeshop.cz^
 ||velaromoda.cz^
 ||velorapraha.cz^
+||velvetvogue.cz^
 ||ventisvision.com^
 ||venumcz.cz^
 ||venusstore.shop^
@@ -1267,6 +1292,7 @@ uspesnirodice.com/store
 ||wellensteynbundy.cc^
 ||wellness-sprchovahlavice-cz.com^
 ||welovedoxies.com^
+||wengroso.cz^
 ||wentcedatenv.club^
 ||westri.top^
 ||wfasdiuo.shop^
@@ -1307,6 +1333,7 @@ yousteround.com/cs-cz
 ||zaria-brno.com^
 ||zarusova.com^
 ||zasilkonos.cz^
+||zdravikrasashop.com^
 ||zdraviodslovanu.online^
 ||zelezshop.com^
 ||zibdo.top^
@@ -1327,6 +1354,7 @@ yousteround.com/cs-cz
 ||zulaia.cz^
 ||zuzutv.cz^
 ||zv-go.tk^
+||zvedavehlavicky.shop^
 ||zvetsovaci-bryle-cz.com^
 ||zvirecinadeje.com^
 ||zvuknastroj.com^
