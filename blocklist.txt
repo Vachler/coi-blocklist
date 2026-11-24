@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 23.11.2026 04:34
-# POČET POLOŽEK: 1352
+# AKTUALIZOVÁNO: 24.11.2026 07:28
+# POČET POLOŽEK: 1377
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -22,6 +22,7 @@
 ||aanhydrousx.lol^
 ||abathingapebape.cz^
 ||abcici.shop^
+||aboderife.com^
 ||abshuzhi.com^
 ||abyte.online^
 ||achaet.com^
@@ -81,12 +82,16 @@ archive.ulaanbaatar.mn/curl/m4/
 ||aura-prague.cz^
 ||aurelia-praha.cz^
 ||aurellisviktorie.cz^
+||auren-hair.cz^
 ||auroraklenoty.cz^
 ||autodilyczech.com^
+||autodilyexpert.com^
 ||autodilyexpres.com^
+||autodilymarket.com^
 ||autokoutek.com^
 ||autolux-czh.com^
 ||autolux-rohoz.com^
+||autoservispotreby.com^
 ||autozona360.com^
 ||avelinpraha.com^
 ||aventraclothes.com^
@@ -207,6 +212,7 @@ centrumnavyku.cz/obchod
 ||coachcz.cz^
 ||comme-des-garcons.cz^
 communityoffersdaily.com/420/nttwbv2/
+||compovex.com^
 ||coreczecho.com^
 ||cos-czechrepublic.cz^
 ||coseshopcz.cz^
@@ -280,6 +286,7 @@ cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||cz3130.herhmpa.shop^
 ||cz4.ketodietnd.com^
 ||cz4home.club^
+||cz4home.homes^
 ||czalpinepro.shop^
 ||czautodily.com^
 ||cze.dwczd.top^
@@ -311,6 +318,7 @@ dailygizmoshop.com/black-curtain-cz
 ||damevyzvu.cz^
 ||dana-praha.cz^
 ||danielmazl.cz^
+||dankers-zimy.cz^
 ||darinapraha.cz^
 ||dashingsoul.com^
 ||datalistshop.com^
@@ -504,6 +512,7 @@ health-spa-award.com/czp1/
 ||homefyrt.com^
 ||homegaden.com^
 ||hoodrichcz.cz^
+||horse-feath.shop^
 hot-shopping-review.com/420/prolesanpure-med-m/gps/
 ||hover-cz.com^
 ||hranatost.cz^
@@ -541,6 +550,7 @@ infoscrolling.com/420/taneralpro2-sakura/gps/
 ||janattwell.com^
 ||janvera.cz^
 ||jareys.com^
+||jaroslavapraha.com^
 ||jblczech.cz^
 ||jeesku.com^
 ||jezdeckepotreby.com^
@@ -661,6 +671,7 @@ lingfluent.com/cs/
 ||lnceglae.monster^
 ||lnkuefeo.newherbalfito.com^
 ||lnvxnxso.sourcesphyto.com^
+||loapmarkets.shop^
 ||lodni-dily.com^
 loftyteam.com/normalife_cr/
 ||longchampczeshop.cz^
@@ -763,6 +774,7 @@ mistrkutil.com/cs-cz
 ||moda-ostrava.com^
 ||modamilacek.cz^
 ||modaopava.cz^
+||modelspart.com^
 ||modni-ostrava.cz^
 ||modnidumpraha.cz^
 ||modovaprague.com^
@@ -770,6 +782,7 @@ mistrkutil.com/cs-cz
 ||monika-praha.cz^
 ||montvexa.com^
 ||moravecbrno.com^
+||morskavybava.com^
 ||motordia.com^
 ||motorovedilypraha.com^
 ||motorwarenhuis.de^
@@ -789,6 +802,7 @@ mynutraresearch.com/new-detonic-cz-1/
 ||nagimi.com^
 ||naleapraha.com^
 ||naradidily.com^
+||naradimontaz.com^
 ||naradipro.com^
 ||naradpro.com^
 ||narodnidenik.com^
@@ -907,7 +921,9 @@ patchoz.com/cz
 ||pdrevo-mrackova.com^
 ||pelety-a-drevo.com^
 ||pelety-brikety.eu^
+||pelety-slany.com^
 ||peletyplus.com^
+||peletyx.com^
 ||pepejeanseshopcz.cz^
 ||perla-brno.cz^
 ||perlapraha.com^
@@ -998,6 +1014,7 @@ relatoncz.zdorovieludi.com/?country_code=cz
 ||rgdse.shop^
 ||rhasnog.com^
 rickerfriends.org/kingstown-zaluje-vitkovu-cpi-kvuli-udajnym-pomluvam-v-mediich/
+||ridegearcz.com^
 ||riekercz.com^
 ||riekerobuveshop.sk^
 ||ritualsbeat.shop^
@@ -1008,6 +1025,7 @@ rickerfriends.org/kingstown-zaluje-vitkovu-cpi-kvuli-udajnym-pomluvam-v-mediich/
 ||rodinnepoklady.com^
 ||roikonggaodian.com^
 rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&utm_content=120233837815880246&utm_term=120233837815930246&utm_campaign=120233837815840246&fbclid=iwy2xjawm13allehrua2flbqewagfkawqbqygj-ghejgee60f9dh8pzmnypr9rlzmraowxxmmxozxgraachtxlomppaljw4atjuc21ub0_aem_yfw5r-4dfnlfx7eljr-uoa
+||rooren.com^
 ||rosella-fashion.com^
 ||rotovaurvananoha.com^
 ||rotto-garage.com^
@@ -1069,6 +1087,7 @@ sidushe.com/d.php?product_id=cljjpmf&amp;pp=0&amp;epik=dj0yjnu9os1wsgh6ejjjbu43o
 ||sikstylpraha.cz^
 ||silkiee.cz^
 ||simaginaryoir.shop^
+||simastar.co^
 ||simek-praha.com^
 ||simonaostrava.com^
 ||simonapraha.cz^
@@ -1087,6 +1106,7 @@ sjuy.store/
 ||smoce.shop^
 ||sneakersonmars.eu^
 ||sneakroll.cz^
+||snowclava.store^
 ||snowmorph.com^
 ||snudge.lol^
 ||sofiaplzen.cz^
@@ -1105,6 +1125,7 @@ spagetlink.com/ttej/l/
 ||speedcrossnettbutikk.com^
 ||sperkyvalentova.com^
 ||spinix.cz^
+||sportcyklovybava.com^
 ||sqnlin07.shop^
 ||squishme.cz^
 ||sroilb.monster^
@@ -1112,6 +1133,7 @@ spagetlink.com/ttej/l/
 ||stainiro.com^
 ||stanleycup.cz^
 ||starsneakers.eu^
+||stavebnimaterialy.com^
 ||stavexpro.com^
 ||stavmart.com^
 ||store.providerp.eu^
@@ -1232,6 +1254,8 @@ urotrin1cz.doctordays.com/l
 uspesnirodice.com/store
 ||uterezy.cz^
 ||utopiadigitalstore.com^
+||utulnocz.com^
+||uyyukityrty.shop^
 ||uzi.la^
 ||vacanez.com^
 ||valeroil.shop^
@@ -1352,6 +1376,7 @@ yousteround.com/cs-cz
 ||zubni-kartacek.cz^
 ||zudanes.com^
 ||zulaia.cz^
+||zupanko.com^
 ||zuzutv.cz^
 ||zv-go.tk^
 ||zvedavehlavicky.shop^
